@@ -432,9 +432,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 727418bf3a5387547b3dd0886aa6b893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlipMovement
-  jumpFoce: 10
+  jump: 0
+  jumpForceZ: 0
   slipFactor: 5
-  UIDocument: {fileID: 0}
 --- !u!212 &1485833985
 SpriteRenderer:
   serializedVersion: 2
@@ -582,14 +582,15 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.34375, y: 0.5}
-      - {x: -0.46875, y: 0}
-      - {x: -0.46875, y: -0.375}
-      - {x: -0.34375, y: -0.5}
-      - {x: 0.28125, y: -0.5}
-      - {x: 0.40625, y: -0.4375}
-      - {x: 0.40625, y: 0.375}
-      - {x: 0.34375, y: 0.5}
+    - - {x: -0.21739042, y: 0.43584818}
+      - {x: -0.28601465, y: 0.25660712}
+      - {x: -0.29184666, y: -0.0678491}
+      - {x: -0.23488638, y: -0.08009738}
+      - {x: -0.19532864, y: -0.32892847}
+      - {x: 0.26764196, y: -0.32309645}
+      - {x: 0.29349852, y: -0.22366089}
+      - {x: 0.2896104, y: 0.375}
+      - {x: -0.058656603, y: 0.50194395}
   m_UseDelaunayMesh: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

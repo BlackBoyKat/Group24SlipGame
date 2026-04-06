@@ -1,3 +1,0 @@
-<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:Image data-source="" name="HealthBar" style="height: 88px; background-image: url(&quot;project://database/Assets/Sprites/meter_pause%20button_asset.png?fileID=2800000&amp;guid=ebc2deaf6d96e7b4085b9a59556b01bb&amp;type=3#meter_pause button_asset&quot;);"/>
-</ui:UXML>

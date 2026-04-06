@@ -5,54 +5,50 @@ public class SlipMovement : MonoBehaviour
 {
     private Rigidbody2D body;
 
+    public float jump;
     public float jumpForceZ = 0f;
-    public float jumpFoce = 10f;
 
     [SerializeField] private float slipFactor = 5f;
     private Vector2 axisMovement;
 
-    bool jumpRequested;
+    private bool isJumping;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
 
         body = GetComponent<Rigidbody2D>();
+        body.constraints = RigidbodyConstraints2D.FreezeRotation;
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        axisMovement.x = Input.GetAxisRaw("Horizontal");
 
-        if(Input.GetButtonDown("Jump"))
+        axisMovement.x = Input.GetAxisRaw("Horizontal");
+        body.velocity = new Vector2(axisMovement.x * slipFactor, body.velocity.y); 
+
+        if (Input.GetButtonDown("Jump") && isJumping == false)
         {
-           jumpRequested = true;
+            body.AddForce(new Vector2(body.velocity.x, jump));
+
         }
 
     }
         
     private void FixedUpdate()
     {
-
         Move();
-        
     }
 
     //This method is to make the player move, the method CheckFlipping was called here in the move method as it's relevant to the movement, it will be explained further domw.
     private void Move()
     {
 
-        body.linearVelocity = axisMovement.normalized * slipFactor; //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
-
-        if (Input.GetButtonDown("Jump") && Mathf.Abs(body.linearVelocity.y) < 0.001f) //This checks if the player is pressing the jump button and if the player is on the ground, this is done by checking if the y velocity is close to zero, which means the player is not moving up or down.
-        {
-            body.AddForce(new Vector2(2f, jumpFoce), ForceMode2D.Impulse); //This adds an impulse force to the player, which makes it jump, the force is applied in the y direction and has a magnitude of 5.
-        }
-
+        body.velocity = new Vector2 (axisMovement.x * slipFactor, body.velocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
         CheckForFlipping();
-       
+
     }
 
  
@@ -73,6 +69,22 @@ public class SlipMovement : MonoBehaviour
 
             transform.localScale = new Vector3(1f,transform.localScale.y, jumpForceZ);
 
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = false;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = true;
         }
     }
 }
