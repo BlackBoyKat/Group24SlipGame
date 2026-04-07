@@ -6,7 +6,6 @@ public class SlipMovement : MonoBehaviour
     private Rigidbody2D body;
 
     public float jump;
-    public float jumpForceZ = 0f;
 
     [SerializeField] private float slipFactor = 5f;
     private Vector2 axisMovement;
@@ -27,11 +26,11 @@ public class SlipMovement : MonoBehaviour
     {
 
         axisMovement.x = Input.GetAxisRaw("Horizontal");
-        body.velocity = new Vector2(axisMovement.x * slipFactor, body.velocity.y); 
+        body.linearVelocity = new Vector2(axisMovement.x * slipFactor, body.linearVelocity.y); 
 
         if (Input.GetButtonDown("Jump") && isJumping == false)
         {
-            body.AddForce(new Vector2(body.velocity.x, jump));
+            body.AddForce(new Vector2(body.linearVelocity.x, jump));
 
         }
 
@@ -46,31 +45,31 @@ public class SlipMovement : MonoBehaviour
     private void Move()
     {
 
-        body.velocity = new Vector2 (axisMovement.x * slipFactor, body.velocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
-        CheckForFlipping();
+        body.linearVelocity = new Vector2 (axisMovement.x * slipFactor, body.linearVelocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
+        //CheckForFlipping();
 
     }
 
- 
+
 
     //This checks for the direction of the movement and flips the sprite accordingly, if the player is moving left it will flip the sprite to face left and if it's moving right it will flip the sprite to face right, this is done by changing the localScale of the transform, which is a common way to flip sprites in Unity.
-    private void CheckForFlipping() 
-    {
-        bool movingLeft = axisMovement.x < 0;
-        bool movingRight = axisMovement.x > 0;
-        if  (movingLeft)
-        {
+    //private void CheckForFlipping()
+    //{
+    //    bool movingLeft = axisMovement.x < 0;
+    //    bool movingRight = axisMovement.x > 0;
+    //    if (movingLeft)
+    //    {
 
-            transform.localScale = new Vector3(-1f, transform.localScale.y, jumpForceZ);
+    //        transform.localScale = new Vector3(-1f, transform.localScale.y, transform.localScale.z);
 
-        }
-        else if (movingRight)
-        {
+    //    }
+    //    else if (movingRight)
+    //    {
 
-            transform.localScale = new Vector3(1f,transform.localScale.y, jumpForceZ);
+    //        transform.localScale = new Vector3(1f, transform.localScale.y, transform.localScale.z);
 
-        }
-    }
+    //    }
+    //}
 
     private void OnCollisionEnter2D(Collision2D other)
     {
