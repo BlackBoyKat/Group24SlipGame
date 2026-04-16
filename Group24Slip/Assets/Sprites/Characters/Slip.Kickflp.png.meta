@@ -148,8 +148,8 @@ TextureImporter:
       name: Slip.InAirKickFlip_2
       rect:
         serializedVersion: 2
-        x: 320
-        y: 532
+        x: 321
+        y: 533
         width: 349
         height: 336
       alignment: 0

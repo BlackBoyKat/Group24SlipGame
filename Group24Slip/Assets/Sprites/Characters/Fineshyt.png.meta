@@ -1,19 +1,28 @@
 fileFormatVersion: 2
-guid: f48eacd7f23145945b781cc296d40edb
+guid: 63a7d327da8860d4abf61f893acfa232
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5229053585885742227
-    second: Slip.GRind_0
+      213: 116087562796599779
+    second: Fineshyt_0
   - first:
-      213: -6556854436961295127
-    second: Slip.GRind_1
+      213: 3519191612071912928
+    second: Fineshyt_1
   - first:
-      213: 8374447820178822369
-    second: Slip.GRind_2
+      213: 5823944431425364941
+    second: Fineshyt_2
   - first:
-      213: 7359448062712919481
-    second: Slip.GRind_3
+      213: -5848397531352555495
+    second: Fineshyt_3
+  - first:
+      213: 3492366157065694603
+    second: Fineshyt_4
+  - first:
+      213: 2502757688975066548
+    second: Fineshyt_5
+  - first:
+      213: -495860993618407344
+    second: Fineshyt_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -109,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SlipInAirJumpGrind
+      name: EmotionExclamation
       rect:
         serializedVersion: 2
-        x: 34
-        y: 236
-        width: 195
-        height: 182
+        x: 73
+        y: 543
+        width: 434
+        height: 348
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d6b3cc5e77bae67b0800000000000000
-      internalID: -5229053585885742227
+      spriteID: 3e90557f50d6c9100800000000000000
+      internalID: 116087562796599779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board
+      name: Fineshyt_1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 256
-        width: 145
-        height: 35
+        x: 509
+        y: 782
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e46af811af5105a0800000000000000
-      internalID: -6556854436961295127
+      spriteID: 0e5a41e202ea6d030800000000000000
+      internalID: 3519191612071912928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipGrind1
+      name: Fineshyt_2
       rect:
         serializedVersion: 2
-        x: 314
-        y: 142
-        width: 169
-        height: 181
+        x: 516
+        y: 771
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e49dc73ce3083470800000000000000
-      internalID: 8374447820178822369
+      spriteID: dc329b29a9ec2d050800000000000000
+      internalID: 5823944431425364941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipGrind2
+      name: EmotionSmile
       rect:
         serializedVersion: 2
-        x: 577
-        y: 241
-        width: 192
-        height: 168
+        x: 1129
+        y: 554
+        width: 385
+        height: 342
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +199,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b5b0f06503022660800000000000000
-      internalID: 7359448062712919481
+      spriteID: 910a57e6e6156dea0800000000000000
+      internalID: -5848397531352555495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fineshyt_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 751
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d2f793480677030800000000000000
+      internalID: 3492366157065694603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionLove
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 415
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b58c32abd49bb220800000000000000
+      internalID: 2502757688975066548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBad
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3
+        width: 440
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501761bd095e19f0800000000000000
+      internalID: -495860993618407344
       vertices: []
       indices: 
       edges: []
@@ -200,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3d679c1e0ebc26746932319a4992d621
+    spriteID: eef806942d9fd3241af79ef96d76eccf
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SlipGrind1: 8374447820178822369
-      SlipGrind2: 7359448062712919481
-      SlipInAirJumpGrind: -5229053585885742227
-      board: -6556854436961295127
+      EmotionBad: -495860993618407344
+      EmotionExclamation: 116087562796599779
+      EmotionLove: 2502757688975066548
+      EmotionSmile: -5848397531352555495
+      Fineshyt_1: 3519191612071912928
+      Fineshyt_2: 5823944431425364941
+      Fineshyt_4: 3492366157065694603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

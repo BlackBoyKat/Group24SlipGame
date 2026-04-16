@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,10 +87,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slip.Pushing_0
+      name: SlipStationary
       rect:
         serializedVersion: 2
         x: 6
@@ -123,7 +123,7 @@ TextureImporter:
         width: 125
         height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,7 +137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.Pushing_1
+      name: SlipGettingOnBoard
       rect:
         serializedVersion: 2
         x: 192
@@ -145,7 +145,7 @@ TextureImporter:
         width: 106
         height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,7 +159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.Pushing_2
+      name: SlipPushing2
       rect:
         serializedVersion: 2
         x: 442
@@ -167,7 +167,7 @@ TextureImporter:
         width: 103
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,7 +181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.Pushing_3
+      name: SlipStationary2
       rect:
         serializedVersion: 2
         x: 148
@@ -189,7 +189,7 @@ TextureImporter:
         width: 101
         height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,15 +203,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.Pushing_4
+      name: SlipPushing1
       rect:
         serializedVersion: 2
-        x: 325
+        x: 327
         y: 110
         width: 158
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.Pushing_5
+      name: SlipPusing3
       rect:
         serializedVersion: 2
         x: 613
@@ -233,7 +233,7 @@ TextureImporter:
         width: 105
         height: 159
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6622cc07207450748950bd52a6c198fa
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Slip.Pushing_0: -4209423783664692330
-      Slip.Pushing_1: 614440747108392714
-      Slip.Pushing_2: 427944835426648592
-      Slip.Pushing_3: -7308936139007165816
-      Slip.Pushing_4: -2694499478563422455
-      Slip.Pushing_5: 4153142792816220862
+      SlipGettingOnBoard: 614440747108392714
+      SlipPushing1: -2694499478563422455
+      SlipPushing2: 427944835426648592
+      SlipPusing3: 4153142792816220862
+      SlipStationary: -4209423783664692330
+      SlipStationary2: -7308936139007165816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
