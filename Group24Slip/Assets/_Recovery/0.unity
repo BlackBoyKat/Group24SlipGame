@@ -328,11 +328,7 @@ SpriteRenderer:
   m_Size: {x: 8.33, y: 1.83}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &136515573
 Transform:
@@ -561,11 +557,7 @@ SpriteRenderer:
   m_Size: {x: 3.85, y: 3.42}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &273745909
 Transform:
@@ -815,10 +807,6 @@ MonoBehaviour:
   - SLIP?
   - I've been trying to call you for the past hour, were the fuck are you
   textSpeed: 0.03
-<<<<<<< HEAD
-  index: 0
-=======
->>>>>>> Tea(Buttons-and-such)
 --- !u!1 &885860739
 GameObject:
   m_ObjectHideFlags: 0
@@ -949,11 +937,7 @@ SpriteRenderer:
   m_Size: {x: 4.89, y: 0.55}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &885860742
 Transform:
@@ -1007,10 +991,6 @@ MonoBehaviour:
   - hewwooooo >0<
   - heeheehahah
   textSpeed: 1
-<<<<<<< HEAD
-  index: 0
-=======
->>>>>>> Tea(Buttons-and-such)
 --- !u!4 &915058165
 Transform:
   m_ObjectHideFlags: 0
@@ -1293,11 +1273,7 @@ SpriteRenderer:
   m_Size: {x: 79.20708, y: 2.4525552}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!65 &1138020356
 BoxCollider:
@@ -1442,11 +1418,7 @@ SpriteRenderer:
   m_Size: {x: 4.7, y: 0.65}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &1275205130
 Transform:
@@ -1617,11 +1589,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 3873.7, y: 51.380005}
-=======
-  m_AnchoredPosition: {x: 3873.7, y: 51.38}
->>>>>>> Tea(Buttons-and-such)
   m_SizeDelta: {x: 7747.2, y: 102.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1346252779
@@ -1970,11 +1938,7 @@ SpriteRenderer:
   m_Size: {x: 9.95, y: 3.24}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &1505136397
 Transform:
@@ -2188,11 +2152,7 @@ SpriteRenderer:
   m_Size: {x: 4.52, y: 0.62}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &1807249203
 Transform:
@@ -2339,11 +2299,7 @@ SpriteRenderer:
   m_Size: {x: 4.92, y: 1.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &1895743836
 Transform:
@@ -2483,11 +2439,7 @@ SpriteRenderer:
   m_Size: {x: 4.28, y: 0.62}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
-  m_WasSpriteAssigned: 0
-=======
   m_WasSpriteAssigned: 1
->>>>>>> Tea(Buttons-and-such)
   m_SpriteSortPoint: 0
 --- !u!4 &2104630312
 Transform:
