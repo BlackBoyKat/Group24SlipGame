@@ -1,13 +1,14 @@
-//using System.Collections;
-//using System.Collections.Generic;
-//using UnityEngine;
-//using UnityEngine.SceneManagement;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
-//public class Button_LevelTrams : MonoBehaviour
-//{
-//    [serialiseField] private string levelName = "LevelTrams";
+public class Button_LevelTrams : MonoBehaviour
+{
+    
    
-//    { public void LoadLevelTrams()
-//        SceneManager.LoadScene("LevelTrams");
-//    }
-//}
+     public void LoadLevel() 
+    { 
+        SceneManager.LoadSceneAsync(1);
+    }
+}
