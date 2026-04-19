@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4c7972056cbaf8546ac884c466c73a6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7275577945913281880
+    second: Slip.Kickflp_0
+  - first:
+      213: -3508294518146366871
+    second: Slip.Kickflp_1
+  - first:
+      213: 469363211772152843
+    second: Slip.Kickflp_2
+  - first:
+      213: 4085829605094563098
+    second: Slip.Kickflp_3
+  - first:
+      213: 6428143051136090611
+    second: Slip.Kickflp_4
+  - first:
+      213: 8738096812415049850
+    second: Slip.Kickflp_5
+  - first:
+      213: -2102543864928051457
+    second: Slip.Kickflp_6
+  - first:
+      213: -2938132104858330901
+    second: Slip.Kickflp_7
+  - first:
+      213: 8281825612908123019
+    second: Slip.Kickflp_8
+  - first:
+      213: -1528098636046436433
+    second: Slip.Kickflp_9
+  - first:
+      213: -3152863349796336825
+    second: Slip.Kickflp_10
+  - first:
+      213: 832147611552979573
+    second: Slip.Kickflp_11
+  - first:
+      213: -2362202239146805651
+    second: Slip.Kickflp_12
+  - first:
+      213: 1977217101041859655
+    second: Slip.Kickflp_13
+  - first:
+      213: 5845118223170655984
+    second: Slip.Kickflp_14
+  - first:
+      213: 8756965820830229701
+    second: Slip.Kickflp_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slip.InAirKickFlip_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 533
+        width: 349
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a23c26e764f70b90800000000000000
+      internalID: -7275577945913281880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 746
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628f6639b8005fc0800000000000000
+      internalID: -3508294518146366871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.landKickflp
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 550
+        width: 304
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc054ba53838600800000000000000
+      internalID: 469363211772152843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.StartKickFilp
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 371
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9f60d068c3b830800000000000000
+      internalID: 4085829605094563098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 548
+        width: 164
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1cc581c0a553950800000000000000
+      internalID: 6428143051136090611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_5
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e8f421c4f34970800000000000000
+      internalID: 8738096812415049850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_6
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 596
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe594e9e7342d2e0800000000000000
+      internalID: -2102543864928051457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 373
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89fb2ea68a937d0800000000000000
+      internalID: -2938132104858330901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.InairKickflip
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 94
+        width: 312
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83de151484fee270800000000000000
+      internalID: 8281825612908123019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.InairKickflip_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 200
+        width: 290
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa771b0036a1bcae0800000000000000
+      internalID: -1528098636046436433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8a0aec77ce34d0800000000000000
+      internalID: -3152863349796336825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_11
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 265
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a1e4308d16c8b00800000000000000
+      internalID: 832147611552979573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_12
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 226
+        width: 197
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b5083495c73fd0800000000000000
+      internalID: -2362202239146805651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 109
+        width: 211
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7d674a7c707b10800000000000000
+      internalID: 1977217101041859655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6df322e080e1150800000000000000
+      internalID: 5845118223170655984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip.Kickflp_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4a2d4840ef68970800000000000000
+      internalID: 8756965820830229701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 459423df7b8e5d94785915d6c579e04c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slip.InAirKickFlip_2: -7275577945913281880
+      Slip.InairKickflip: 8281825612908123019
+      Slip.InairKickflip_3: -1528098636046436433
+      Slip.Kickflp_1: -3508294518146366871
+      Slip.Kickflp_10: -3152863349796336825
+      Slip.Kickflp_11: 832147611552979573
+      Slip.Kickflp_12: -2362202239146805651
+      Slip.Kickflp_13: 1977217101041859655
+      Slip.Kickflp_14: 5845118223170655984
+      Slip.Kickflp_15: 8756965820830229701
+      Slip.Kickflp_4: 6428143051136090611
+      Slip.Kickflp_5: 8738096812415049850
+      Slip.Kickflp_6: -2102543864928051457
+      Slip.Kickflp_7: -2938132104858330901
+      Slip.StartKickFilp: 4085829605094563098
+      Slip.landKickflp: 469363211772152843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

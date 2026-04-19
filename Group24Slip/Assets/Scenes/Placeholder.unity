@@ -119,6 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD:Group24Slip/Assets/Scenes/Placeholder.unity
 --- !u!1 &689326730
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,3 +262,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 689326733}
+=======
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots: []
+>>>>>>> Katleho(Movement):Group24Slip/Assets/Scenes/SampleScene.unity
