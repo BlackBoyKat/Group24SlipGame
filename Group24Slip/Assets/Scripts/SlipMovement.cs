@@ -10,13 +10,16 @@ public class SlipMovement : MonoBehaviour
     [SerializeField] private float slipFactor = 5f;
     private Vector2 axisMovement;
 
-    private bool isJumping;
+    bool isGrounded = false;
+
+    Animator animator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
 
         body = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
         body.constraints = RigidbodyConstraints2D.FreezeRotation;
 
     }
@@ -32,17 +35,20 @@ public class SlipMovement : MonoBehaviour
 
         body.linearVelocity = new Vector2(axisMovement.x * slipFactor, body.linearVelocity.y); 
 
-        if (Input.GetButtonDown("Jump") && isJumping == false) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
+        if (Input.GetButtonDown("Jump") && isGrounded == false) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
         {
             body.AddForce(new Vector2(body.linearVelocity.x, jump));
 
         }
+
+        animator.SetBool("isJumping", !isGrounded); 
 
     }
         
     private void FixedUpdate()
     {
         Move();
+        animator.SetFloat("xVelocity", body.linearVelocity.x);
     }
 
     //This method is to make the player move, the method CheckFlipping was called here in the move method as it's relevant to the movement, it will be explained further domw.
@@ -75,20 +81,19 @@ public class SlipMovement : MonoBehaviour
     //    }
     //}
 
-    private void OnCollisionEnter2D(Collision2D other)
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.gameObject.CompareTag("Floor"))
-        {
-            isJumping = false;
-        }
+        isGrounded = true;
     }
 
-    private void OnCollisionExit2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Floor"))
-        {
-            isJumping = true;
-        }
-    }
+    //private void OnCollisionExit2D(Collision2D other)
+    //{
+    //    if (other.gameObject.CompareTag("Floor"))
+    //    {
+    //        isGrounded = true;
+    //    }
+   // }
 }
 
