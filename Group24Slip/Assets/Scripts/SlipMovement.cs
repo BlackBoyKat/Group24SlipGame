@@ -37,7 +37,7 @@ public class SlipMovement : MonoBehaviour
         {
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpPower); // Set the vertical velocity to the jump power, this will make the player jump.
             
-            isGrounded = false; // Set isGrounded to false when the player jumps
+            isGrounded = false; // Set isGrounded to false when the player jumps 
             animator.SetBool("isJumping", !isGrounded);
 
         }
@@ -59,16 +59,24 @@ public class SlipMovement : MonoBehaviour
        
 
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        isGrounded = true;
-        animator.SetBool("isJumping", !isGrounded);
+        
+            isGrounded = true;
+            animator.SetBool("isJumping", !isGrounded);
+       
     }
+
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    isGrounded = true;
+    //    animator.SetBool("isJumping", !isGrounded);
+    //}
 
     //private void OnTriggerExit2D(Collider2D collision)
     //{
     //    isGrounded = false;
+    //    animator.SetBool("isJumping", isGrounded);
     //}
 
 
