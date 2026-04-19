@@ -5,9 +5,9 @@ public class SlipMovement : MonoBehaviour
 {
     private Rigidbody2D body;
 
-    public float jump;
+    public float jumpPower = 4f;
 
-    [SerializeField] private float slipFactor = 5f;
+    [SerializeField] private float slipSpeed = 5f;
     private Vector2 axisMovement;
 
     bool isGrounded = false;
@@ -20,7 +20,7 @@ public class SlipMovement : MonoBehaviour
 
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        body.constraints = RigidbodyConstraints2D.FreezeRotation;
+        
 
     }
 
@@ -32,68 +32,45 @@ public class SlipMovement : MonoBehaviour
         axisMovement.x = Mathf.Max(0f, rawHorizontal);//cut out the negative values to prevent the player from moving left, this is done by using the Mathf.Max method, which returns the maximum of the two values, in this case 0 and the raw horizontal input, this means that if the raw horizontal input is negative, it will return 0, which will prevent the player from moving left.
 
 
-
-        body.linearVelocity = new Vector2(axisMovement.x * slipFactor, body.linearVelocity.y); 
-
-        if (Input.GetButtonDown("Jump") && isGrounded == false) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
+        //Allow jump only when grounded
+        if (Input.GetButtonDown("Jump") && isGrounded) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
         {
-            body.AddForce(new Vector2(body.linearVelocity.x, jump));
+            body.linearVelocity = new Vector2(body.linearVelocity.x, jumpPower); // Set the vertical velocity to the jump power, this will make the player jump.
+            
+            isGrounded = false; // Set isGrounded to false when the player jumps
+            animator.SetBool("isJumping", !isGrounded);
 
         }
-
-        animator.SetBool("isJumping", !isGrounded); 
 
     }
         
     private void FixedUpdate()
     {
         Move();
-        animator.SetFloat("xVelocity", body.linearVelocity.x);
+        animator.SetFloat("xVelocity", Mathf.Abs(body.linearVelocity.x));
+        animator.SetFloat("yVelocity", body.linearVelocity.y);
     }
 
     //This method is to make the player move, the method CheckFlipping was called here in the move method as it's relevant to the movement, it will be explained further domw.
     private void Move()
     {
 
-        body.linearVelocity = new Vector2 (axisMovement.x * slipFactor, body.linearVelocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
-        //CheckForFlipping();
+        body.linearVelocity = new Vector2 (axisMovement.x * slipSpeed, body.linearVelocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
+       
 
     }
-
-
-
-    //This checks for the direction of the movement and flips the sprite accordingly, if the player is moving left it will flip the sprite to face left and if it's moving right it will flip the sprite to face right, this is done by changing the localScale of the transform, which is a common way to flip sprites in Unity.
-    //private void CheckForFlipping()
-    //{
-    //    bool movingLeft = axisMovement.x < 0;
-    //    bool movingRight = axisMovement.x > 0;
-    //    if (movingLeft)
-    //    {
-
-    //        transform.localScale = new Vector3(-1f, transform.localScale.y, transform.localScale.z);
-
-    //    }
-    //    else if (movingRight)
-    //    {
-
-    //        transform.localScale = new Vector3(1f, transform.localScale.y, transform.localScale.z);
-
-    //    }
-    //}
-
-
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         isGrounded = true;
+        animator.SetBool("isJumping", !isGrounded);
     }
 
-    //private void OnCollisionExit2D(Collision2D other)
+    //private void OnTriggerExit2D(Collider2D collision)
     //{
-    //    if (other.gameObject.CompareTag("Floor"))
-    //    {
-    //        isGrounded = true;
-    //    }
-   // }
+    //    isGrounded = false;
+    //}
+
+
 }
 
