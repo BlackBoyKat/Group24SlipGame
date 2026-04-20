@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SlipStationary
+      name: SlipIdle
       rect:
         serializedVersion: 2
         x: 6
-        y: 239
-        width: 125
-        height: 143
+        y: 237
+        width: 121
+        height: 145
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,7 +137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipGettingOnBoard
+      name: SlipPush 1
       rect:
         serializedVersion: 2
         x: 192
@@ -159,7 +159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipPushing2
+      name: SlipPush3
       rect:
         serializedVersion: 2
         x: 442
@@ -181,10 +181,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipStationary2
+      name: SlipIdle2
       rect:
         serializedVersion: 2
-        x: 148
+        x: 149
         y: 76
         width: 101
         height: 138
@@ -203,10 +203,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipPushing1
+      name: SlipPush2
       rect:
         serializedVersion: 2
-        x: 327
+        x: 325
         y: 110
         width: 158
         height: 160
@@ -225,7 +225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SlipPusing3
+      name: SlipPush4
       rect:
         serializedVersion: 2
         x: 613
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6622cc07207450748950bd52a6c198fa
+    spriteID: 88f3144de2b43934090f1d51eb1d51f3
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SlipGettingOnBoard: 614440747108392714
-      SlipPushing1: -2694499478563422455
-      SlipPushing2: 427944835426648592
-      SlipPusing3: 4153142792816220862
-      SlipStationary: -4209423783664692330
-      SlipStationary2: -7308936139007165816
+      SlipIdle: -4209423783664692330
+      SlipIdle2: -7308936139007165816
+      SlipPush 1: 614440747108392714
+      SlipPush2: -2694499478563422455
+      SlipPush3: 427944835426648592
+      SlipPush4: 4153142792816220862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

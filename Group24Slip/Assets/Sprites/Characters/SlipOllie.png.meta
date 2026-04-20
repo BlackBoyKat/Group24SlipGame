@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ceef19d4e9f5db428704280d26f7967
+guid: 1a25f1a176446514aa68bd94a20f80fc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -112,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ridinf Slip
+      name: SlipRiding
       rect:
         serializedVersion: 2
         x: 5
@@ -134,10 +134,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RS 2
+      name: SlipPrepareForPop
       rect:
         serializedVersion: 2
-        x: 227
+        x: 226
         y: 253
         width: 173
         height: 164
@@ -156,11 +156,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpSlip
+      name: SlipPop
       rect:
         serializedVersion: 2
         x: 443
-        y: 238
+        y: 237
         width: 158
         height: 196
       alignment: 0
@@ -178,7 +178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LandSlip
+      name: SlipLand
       rect:
         serializedVersion: 2
         x: 680
@@ -200,7 +200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AT Slip
+      name: SlipInAir
       rect:
         serializedVersion: 2
         x: 440
@@ -225,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 90fa8c37d363c3c42a78fae22ce6ac16
+    spriteID: 41910e6e0459a814fb68e18897ec8c06
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AT Slip: 7166939765765486551
-      JumpSlip: 3006959492820554760
-      LandSlip: 6274098337284328275
-      RS 2: 6974898103455332101
-      Ridinf Slip: 7283719850358254711
+      SlipInAir: 7166939765765486551
+      SlipLand: 6274098337284328275
+      SlipPop: 3006959492820554760
+      SlipPrepareForPop: 6974898103455332101
+      SlipRiding: 7283719850358254711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

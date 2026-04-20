@@ -145,15 +145,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slip.InAirKickFlip_2
+      name: Slip.Kickflp_0
       rect:
         serializedVersion: 2
-        x: 321
-        y: 533
-        width: 349
-        height: 336
+        x: 332
+        y: 616
+        width: 341
+        height: 253
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +175,7 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.landKickflp
+      name: Slip.Kickflp_2
       rect:
         serializedVersion: 2
         x: 1058
@@ -197,7 +197,7 @@ TextureImporter:
         width: 304
         height: 285
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -211,15 +211,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.StartKickFilp
+      name: Slip.Kickflp_3
       rect:
         serializedVersion: 2
-        x: 13
-        y: 371
+        x: 15
+        y: 375
         width: 254
         height: 320
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,7 +241,7 @@ TextureImporter:
         width: 164
         height: 66
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,7 +285,7 @@ TextureImporter:
         width: 12
         height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +307,7 @@ TextureImporter:
         width: 18
         height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -321,15 +321,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.InairKickflip
+      name: Slip.Kickflp_8
       rect:
         serializedVersion: 2
         x: 248
-        y: 94
-        width: 312
-        height: 321
+        y: 155
+        width: 311
+        height: 260
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,15 +343,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slip.InairKickflip_3
+      name: Slip.Kickflp_9
       rect:
         serializedVersion: 2
-        x: 777
-        y: 200
-        width: 290
-        height: 333
+        x: 783
+        y: 280
+        width: 284
+        height: 253
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -373,7 +373,7 @@ TextureImporter:
         width: 7
         height: 9
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,7 +395,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,7 +417,7 @@ TextureImporter:
         width: 197
         height: 55
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -439,7 +439,7 @@ TextureImporter:
         width: 211
         height: 44
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,7 +461,7 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -483,7 +483,7 @@ TextureImporter:
         width: 10
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,7 +500,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 459423df7b8e5d94785915d6c579e04c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -510,9 +510,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Slip.InAirKickFlip_2: -7275577945913281880
-      Slip.InairKickflip: 8281825612908123019
-      Slip.InairKickflip_3: -1528098636046436433
+      Slip.Kickflp_0: -7275577945913281880
       Slip.Kickflp_1: -3508294518146366871
       Slip.Kickflp_10: -3152863349796336825
       Slip.Kickflp_11: 832147611552979573
@@ -520,12 +518,14 @@ TextureImporter:
       Slip.Kickflp_13: 1977217101041859655
       Slip.Kickflp_14: 5845118223170655984
       Slip.Kickflp_15: 8756965820830229701
+      Slip.Kickflp_2: 469363211772152843
+      Slip.Kickflp_3: 4085829605094563098
       Slip.Kickflp_4: 6428143051136090611
       Slip.Kickflp_5: 8738096812415049850
       Slip.Kickflp_6: -2102543864928051457
       Slip.Kickflp_7: -2938132104858330901
-      Slip.StartKickFilp: 4085829605094563098
-      Slip.landKickflp: 469363211772152843
+      Slip.Kickflp_8: 8281825612908123019
+      Slip.Kickflp_9: -1528098636046436433
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

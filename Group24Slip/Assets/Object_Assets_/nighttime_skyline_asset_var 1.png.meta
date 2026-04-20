@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ac8eeb9f97793394da427da637edcd01
+guid: e8b4d3277f9afb24bb2660bea3462ac2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9132505113843180701
-    second: daytime_sidewalkf_asset (no stairs)_0
+      213: -2336794430537119315
+    second: nighttime_skyline_asset_var 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: daytime_sidewalkf_asset (no stairs)_0
+      name: nighttime_skyline_asset_var 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1918
-        height: 250
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36b50fb2cf2d24180800000000000000
-      internalID: -9132505113843180701
+      spriteID: da949b6a8d9029fd0800000000000000
+      internalID: -2336794430537119315
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      daytime_sidewalkf_asset (no stairs)_0: -9132505113843180701
+      nighttime_skyline_asset_var 1_0: -2336794430537119315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

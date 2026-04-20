@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e31fe025be675474e814b040fcd5c923
+guid: ac9c8ff85e3b8f846bce8f35acefceee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7004622727293787387
-    second: play button_main menu_asset_0
+      213: -5041065896275736995
+    second: staircase_type 2_asset_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: play button_main menu_asset_0
+      name: staircase_type 2_asset_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 60
-        width: 799
-        height: 180
+        x: 84
+        y: 6
+        width: 834
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 503a60addb49ace90800000000000000
-      internalID: -7004622727293787387
+      spriteID: d56062ba6498a0ab0800000000000000
+      internalID: -5041065896275736995
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      play button_main menu_asset_0: -7004622727293787387
+      staircase_type 2_asset_0: -5041065896275736995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

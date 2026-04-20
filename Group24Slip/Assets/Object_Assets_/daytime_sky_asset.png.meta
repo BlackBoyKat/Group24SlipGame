@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 17f4d0eb4b69f8344854037a6fbf48cf
+guid: 48c8710f6f7f6894fa6562be933bbaf7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 314725746338704250
-    second: dialogue_box_0
+      213: -8640673115492248509
+    second: daytime_sky_asset_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dialogue_box_0
+      name: daytime_sky_asset_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 118
-        width: 995
-        height: 324
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7b203816612e5400800000000000000
-      internalID: 314725746338704250
+      spriteID: 34411dae499261880800000000000000
+      internalID: -8640673115492248509
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      dialogue_box_0: 314725746338704250
+      daytime_sky_asset_0: -8640673115492248509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
