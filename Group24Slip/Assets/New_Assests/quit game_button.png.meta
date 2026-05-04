@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 32fa0bd446cf22a4aa27e207e4026563
+guid: 4f4908bbf15920a4bae845a0b67c5bfa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1811848948960995400
-    second: intro_sick ramp_asset_0
-  - first:
-      213: 9186358691968907938
-    second: intro_sick ramp_asset_1
+      213: -4905743383285183629
+    second: quit game_button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: intro_sick ramp_asset_0
+      name: quit game_button_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1918
-        height: 779
+        x: 38
+        y: 26
+        width: 147
+        height: 174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b7d3820bf40bd6e0800000000000000
-      internalID: -1811848948960995400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: intro_sick ramp_asset_1
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 604
-        width: 153
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2aaf0261f808c7f70800000000000000
-      internalID: 9186358691968907938
+      spriteID: 37b4018726c4bebb0800000000000000
+      internalID: -4905743383285183629
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      intro_sick ramp_asset_0: -1811848948960995400
-      intro_sick ramp_asset_1: 9186358691968907938
+      quit game_button_0: -4905743383285183629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

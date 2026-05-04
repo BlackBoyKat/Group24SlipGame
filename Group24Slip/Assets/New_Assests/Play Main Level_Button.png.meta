@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f67fead65d606934abaadfe8311468fa
+guid: 11209ac287551054096bc8141ae12cda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2405344926120612933
-    second: daytime_skyline_asset_var 2_0
+      213: -8969513275566973088
+    second: Play Main Level_Button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: daytime_skyline_asset_var 2_0
+      name: Play Main Level_Button_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1000
+        x: 50
+        y: 80
+        width: 988
+        height: 310
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbbea44a88f7e9ed0800000000000000
-      internalID: -2405344926120612933
+      spriteID: 06f1ea9c233e58380800000000000000
+      internalID: -8969513275566973088
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      daytime_skyline_asset_var 2_0: -2405344926120612933
+      Play Main Level_Button_0: -8969513275566973088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
