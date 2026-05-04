@@ -37,15 +37,15 @@ public class SlipMovement : MonoBehaviour
         isGrinding = false;
 
         //This is to get the raw input from the horizontal axis, which is the left and right movement, this is done by using the Input.GetAxisRaw method, which returns a value between -1 and 1, where -1 is left, 0 is no movement and 1 is right. The raw input is used to prevent any smoothing that might be applied to the input, which can make the movement feel more responsive.
-<<<<<<< Updated upstream
+
         float rawHorizontal = Input.GetAxisRaw("Horizontal");
         axisMovement.x = Mathf.Max(0f, rawHorizontal);//cut out the negative values to prevent the player from moving left, this is done by using the Mathf.Max method, which returns the maximum of the two values, in this case 0 and the raw horizontal input, this means that if the raw horizontal input is negative, it will return 0, which will prevent the player from moving left.
 
 
-=======
+
         axisMovement.x = Input.GetAxisRaw("Horizontal");
        
->>>>>>> Stashed changes
+
         //Allow jump only when grounded
         if (Input.GetButtonDown("Jump") && isGrounded) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
         {
