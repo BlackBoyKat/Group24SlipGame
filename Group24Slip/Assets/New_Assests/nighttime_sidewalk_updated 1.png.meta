@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Group24Slip/Assets/Object_Assets_/nighttime_sky_asset.png.meta
-guid: d6eb5401242818d43bc3276fdcf51cff
-========
-guid: ffba22b594f784b4baa9f2b808080873
->>>>>>>> Tea(Buttons-and-such):Group24Slip/Assets/Assets/phone_asset.png.meta
+guid: 08a39b88a6935f54e8319f04b7fcd08b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2861531548825680012
-    second: nighttime_sky_asset_0
+      213: -366731474063989753
+    second: nighttime_sidewalk_updated 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nighttime_sky_asset_0
+      name: nighttime_sidewalk_updated 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 5850
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c88f35958c336b720800000000000000
-      internalID: 2861531548825680012
+      spriteID: 704e578daab19eaf0800000000000000
+      internalID: -366731474063989753
       vertices: []
       indices: 
       edges: []
@@ -139,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nighttime_sky_asset_0: 2861531548825680012
+      nighttime_sidewalk_updated 1_0: -366731474063989753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

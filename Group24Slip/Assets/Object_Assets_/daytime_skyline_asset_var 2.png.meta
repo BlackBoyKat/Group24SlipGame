@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: b13686b378849d44eb16d81e08fe9cea
+<<<<<<<< HEAD:Group24Slip/Assets/Object_Assets_/daytime_skyline_asset_var 2.png.meta
+guid: 5ad9a25fc53c0344b8b48baf0ce38f95
+========
+guid: ffd2c0fdfc63fa14287b12ae510928bc
+>>>>>>>> Tea(Buttons-and-such):Group24Slip/Assets/Assets/daytime_skyline_asset_var 2.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,7 +110,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 1920
-        height: 1000
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -1,10 +1,14 @@
 fileFormatVersion: 2
-guid: 4a007843204fdaa4d878ba9122345002
+<<<<<<<< HEAD:Group24Slip/Assets/Object_Assets_/daytime_skyline_asset_var 3.png.meta
+guid: 647bf29460dfd3540a0caef2c915a4f3
+========
+guid: a672072e94193a246a9e71ba40dd54a0
+>>>>>>>> Tea(Buttons-and-such):Group24Slip/Assets/New_Assests/daytime_sky_asset.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1731556057278441190
-    second: daytime_skyline_asset_var 3_0
+      213: -8640673115492248509
+    second: daytime_sky_asset_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: daytime_skyline_asset_var 3_0
+      name: daytime_sky_asset_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e6e1c65f09b70810800000000000000
-      internalID: 1731556057278441190
+      spriteID: 34411dae499261880800000000000000
+      internalID: -8640673115492248509
       vertices: []
       indices: 
       edges: []
@@ -135,7 +139,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      daytime_skyline_asset_var 3_0: 1731556057278441190
+      daytime_sky_asset_0: -8640673115492248509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,14 @@
 fileFormatVersion: 2
-guid: 0f23d2da6dc68e34b920ff7a12262579
+<<<<<<<< HEAD:Group24Slip/Assets/Sprites/Backgrounds/daytime_sidewalkf_asset (no stairs).png.meta
+guid: 83235926af59f264f8b580102e94261f
+========
+guid: a685e7db996c6794f802c7b32f5cfd5b
+>>>>>>>> Tea(Buttons-and-such):Group24Slip/Assets/Assets/nighttime_sidewalk_updated.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9132505113843180701
-    second: daytime_sidewalkf_asset (no stairs)_0
+      213: 9124818418096487711
+    second: nighttime_sidewalk_updated_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: daytime_sidewalkf_asset (no stairs)_0
+      name: nighttime_sidewalk_updated_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1918
-        height: 250
+        width: 5850
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36b50fb2cf2d24180800000000000000
-      internalID: -9132505113843180701
+      spriteID: f1d3592810ed1ae70800000000000000
+      internalID: 9124818418096487711
       vertices: []
       indices: 
       edges: []
@@ -135,7 +139,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      daytime_sidewalkf_asset (no stairs)_0: -9132505113843180701
+      nighttime_sidewalk_updated_0: 9124818418096487711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

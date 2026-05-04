@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Group24Slip/Assets/Object_Assets_/nighttime_sky_asset.png.meta
-guid: d6eb5401242818d43bc3276fdcf51cff
-========
-guid: ffba22b594f784b4baa9f2b808080873
->>>>>>>> Tea(Buttons-and-such):Group24Slip/Assets/Assets/phone_asset.png.meta
+guid: 85d5b72c303672f4996ee1718f664274
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2861531548825680012
-    second: nighttime_sky_asset_0
+      213: -2405344926120612933
+    second: daytime_skyline_asset_var 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nighttime_sky_asset_0
+      name: daytime_skyline_asset_var 2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c88f35958c336b720800000000000000
-      internalID: 2861531548825680012
+      spriteID: bbbea44a88f7e9ed0800000000000000
+      internalID: -2405344926120612933
       vertices: []
       indices: 
       edges: []
@@ -139,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nighttime_sky_asset_0: 2861531548825680012
+      daytime_skyline_asset_var 2_0: -2405344926120612933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
