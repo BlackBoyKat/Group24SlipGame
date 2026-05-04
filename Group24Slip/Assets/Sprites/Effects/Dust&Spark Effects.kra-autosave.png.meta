@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: d55a3c2d16471574ba786a908e6fe381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2487255356538513307
+    second: Dust&Spark Effects.kra-autosave_0
+  - first:
+      213: -3437963755876380653
+    second: Dust&Spark Effects.kra-autosave_1
+  - first:
+      213: -25970847164309263
+    second: Dust&Spark Effects.kra-autosave_2
+  - first:
+      213: 7525705521369794084
+    second: Dust&Spark Effects.kra-autosave_3
+  - first:
+      213: 6851211656734045223
+    second: Dust&Spark Effects.kra-autosave_4
+  - first:
+      213: -2485459272298944380
+    second: Dust&Spark Effects.kra-autosave_5
+  - first:
+      213: -2681229527852236888
+    second: Dust&Spark Effects.kra-autosave_6
+  - first:
+      213: 4749206709406975172
+    second: Dust&Spark Effects.kra-autosave_7
+  - first:
+      213: -8617748177530907464
+    second: Dust&Spark Effects.kra-autosave_8
+  - first:
+      213: 583951138550016304
+    second: Dust&Spark Effects.kra-autosave_9
+  - first:
+      213: -4078320151716149056
+    second: Dust&Spark Effects.kra-autosave_10
+  - first:
+      213: 4761468986694171353
+    second: Dust&Spark Effects.kra-autosave_11
+  - first:
+      213: -2817393887225646471
+    second: Dust&Spark Effects.kra-autosave_12
+  - first:
+      213: 8922699533147374687
+    second: Dust&Spark Effects.kra-autosave_13
+  - first:
+      213: -6683840946709906205
+    second: Dust&Spark Effects.kra-autosave_14
+  - first:
+      213: -8903586845941766539
+    second: Dust&Spark Effects.kra-autosave_15
+  - first:
+      213: 3333300385993407207
+    second: Dust&Spark Effects.kra-autosave_16
+  - first:
+      213: -4251182420208908444
+    second: Dust&Spark Effects.kra-autosave_17
+  - first:
+      213: 9102551697101238292
+    second: Dust&Spark Effects.kra-autosave_18
+  - first:
+      213: 8006738674517843519
+    second: Dust&Spark Effects.kra-autosave_19
+  - first:
+      213: -2185180597672778095
+    second: Dust&Spark Effects.kra-autosave_20
+  - first:
+      213: -1941698105889145419
+    second: Dust&Spark Effects.kra-autosave_21
+  - first:
+      213: -7595764458775240625
+    second: Dust&Spark Effects.kra-autosave_22
+  - first:
+      213: 4737150270179661583
+    second: Dust&Spark Effects.kra-autosave_23
+  - first:
+      213: 2707557599217440177
+    second: Dust&Spark Effects.kra-autosave_24
+  - first:
+      213: 2716719296525813271
+    second: Dust&Spark Effects.kra-autosave_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_0
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 703
+        width: 209
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b976a289191848220800000000000000
+      internalID: 2487255356538513307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 736
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310125cdd26e940d0800000000000000
+      internalID: -3437963755876380653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 832
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06140f6abb3aff0800000000000000
+      internalID: -25970847164309263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 710
+        width: 147
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426417d7c4da07860800000000000000
+      internalID: 7525705521369794084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 785
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f5a8d3b4641f50800000000000000
+      internalID: 6851211656734045223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_5
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488abead5ffd18dd0800000000000000
+      internalID: -2485459272298944380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 692
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af341f33fb5acad0800000000000000
+      internalID: -2681229527852236888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 703
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ca1ff65298e140800000000000000
+      internalID: 4749206709406975172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 692
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4108af0bb976880800000000000000
+      internalID: -8617748177530907464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_9
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 701
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0396573777c9a1800800000000000000
+      internalID: 583951138550016304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_10
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 726
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c844ac0e65e667c0800000000000000
+      internalID: -4078320151716149056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_11
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 636
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daf1f8e0d2241240800000000000000
+      internalID: 4761468986694171353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_12
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 497
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972fe8fcf2b96e8d0800000000000000
+      internalID: -2817393887225646471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_13
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 554
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540bce63fbc3db70800000000000000
+      internalID: 8922699533147374687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 430
+        width: 165
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec352c421a3e33a0800000000000000
+      internalID: -6683840946709906205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 420
+        width: 186
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576ecc4dfea107480800000000000000
+      internalID: -8903586845941766539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 427
+        width: 187
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3fcc5a03424e20800000000000000
+      internalID: 3333300385993407207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_17
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 411
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4670010dc14c005c0800000000000000
+      internalID: -4251182420208908444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 413
+        width: 164
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41039578a82c25e70800000000000000
+      internalID: 9102551697101238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e94082766ad1f60800000000000000
+      internalID: 8006738674517843519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_20
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 484
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19663a1f2ddaca1e0800000000000000
+      internalID: -2185180597672778095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_21
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdbd693cd3bd05e0800000000000000
+      internalID: -1941698105889145419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 415
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402a25087c669690800000000000000
+      internalID: -7595764458775240625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 472
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0754bd721dbdb140800000000000000
+      internalID: 4737150270179661583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_24
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 404
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d34e8a4d239520800000000000000
+      internalID: 2707557599217440177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust&Spark Effects.kra-autosave_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 443
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716cedf6ec9b3b520800000000000000
+      internalID: 2716719296525813271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust&Spark Effects.kra-autosave_0: 2487255356538513307
+      Dust&Spark Effects.kra-autosave_1: -3437963755876380653
+      Dust&Spark Effects.kra-autosave_10: -4078320151716149056
+      Dust&Spark Effects.kra-autosave_11: 4761468986694171353
+      Dust&Spark Effects.kra-autosave_12: -2817393887225646471
+      Dust&Spark Effects.kra-autosave_13: 8922699533147374687
+      Dust&Spark Effects.kra-autosave_14: -6683840946709906205
+      Dust&Spark Effects.kra-autosave_15: -8903586845941766539
+      Dust&Spark Effects.kra-autosave_16: 3333300385993407207
+      Dust&Spark Effects.kra-autosave_17: -4251182420208908444
+      Dust&Spark Effects.kra-autosave_18: 9102551697101238292
+      Dust&Spark Effects.kra-autosave_19: 8006738674517843519
+      Dust&Spark Effects.kra-autosave_2: -25970847164309263
+      Dust&Spark Effects.kra-autosave_20: -2185180597672778095
+      Dust&Spark Effects.kra-autosave_21: -1941698105889145419
+      Dust&Spark Effects.kra-autosave_22: -7595764458775240625
+      Dust&Spark Effects.kra-autosave_23: 4737150270179661583
+      Dust&Spark Effects.kra-autosave_24: 2707557599217440177
+      Dust&Spark Effects.kra-autosave_25: 2716719296525813271
+      Dust&Spark Effects.kra-autosave_3: 7525705521369794084
+      Dust&Spark Effects.kra-autosave_4: 6851211656734045223
+      Dust&Spark Effects.kra-autosave_5: -2485459272298944380
+      Dust&Spark Effects.kra-autosave_6: -2681229527852236888
+      Dust&Spark Effects.kra-autosave_7: 4749206709406975172
+      Dust&Spark Effects.kra-autosave_8: -8617748177530907464
+      Dust&Spark Effects.kra-autosave_9: 583951138550016304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
