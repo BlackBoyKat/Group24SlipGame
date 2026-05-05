@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 54c224c53075563499d605bfd8893331
+guid: ee41ccb3993f8a14387ccd669589c9fc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5552459428250853543
-    second: fineshyt_happy_0
+      213: -8210400979822074211
+    second: Vending machine_asset_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fineshyt_happy_0
+      name: Vending machine_asset_0
       rect:
         serializedVersion: 2
-        x: 57
-        y: 80
-        width: 385
-        height: 342
+        x: 24
+        y: 27
+        width: 310
+        height: 546
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95fd6557193b1f2b0800000000000000
-      internalID: -5552459428250853543
+      spriteID: d96af263fcbce0e80800000000000000
+      internalID: -8210400979822074211
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fineshyt_happy_0: -5552459428250853543
+      Vending machine_asset_0: -8210400979822074211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
