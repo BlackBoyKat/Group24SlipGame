@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class SlipMovement : MonoBehaviour
 {
+    private SpriteRenderer SpriteRenderer;
     private Rigidbody2D body;
 
     public float jumpPower = 4f;
@@ -23,7 +24,7 @@ public class SlipMovement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        SpriteRenderer = GetComponent<SpriteRenderer>();
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
@@ -76,7 +77,11 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x -= 1f;
             isPushing = true;
-            transform.localScale = new Vector3(-1, transform.localScale.y);
+
+            //flips without resizing
+
+            SpriteRenderer.flipX = true;
+            
 
         }
 
@@ -84,7 +89,9 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x += 1f;
             isPushing = true;
-            transform.localScale = new Vector3(1, transform.localScale.y);
+
+            SpriteRenderer.flipX = false;
+            
 
         }
 
