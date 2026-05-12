@@ -63,11 +63,11 @@ public class SlipMovement : MonoBehaviour
 
         }
 
-        if(body.velocity.y < 0) //Falling
+        if(body.linearVelocity.y < 0) //Falling
         {
             body.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime; 
         }
-        else if(body.velocity.y > 0 && !Input.GetButton("Jump")) //Rising but jump button is released
+        else if(body.linearVelocity.y > 0 && !Input.GetButton("Jump")) //Rising but jump button is released
         {
             body.linearVelocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
