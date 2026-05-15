@@ -237,16 +237,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: meter incremeents 2_8
+      name: 0 hp
       rect:
         serializedVersion: 2
         x: 46
-        y: 51
-        width: 1071
-        height: 128
+        y: 52
+        width: 1076
+        height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 142, y: 26, z: 151, w: 23}
       customData: 
       outline: []
       physicsShape: []
@@ -274,6 +274,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      0 hp: 944631089
       meter incremeents 2_0: 1249417817
       meter incremeents 2_2: 963539379
       meter incremeents 2_3: -4937153914451417402
@@ -281,7 +282,6 @@ TextureImporter:
       meter incremeents 2_5: -6095557515057802497
       meter incremeents 2_6: -1695087347
       meter incremeents 2_7: 5699893188994576612
-      meter incremeents 2_8: 944631089
       meter incremeents 2_9: 2764521709627699728
       pauseButton: 2478159540247547608
   mipmapLimitGroupName: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 4f44daa47945ede42a4d54b60507c78d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4567839605521502281
+    second: meter incremeents modified_0
+  - first:
+      213: -500072707523006971
+    second: meter incremeents modified_1
+  - first:
+      213: -5549615080882657198
+    second: meter incremeents modified_2
+  - first:
+      213: -6044173785776725921
+    second: meter incremeents modified_3
+  - first:
+      213: -1250928587583679875
+    second: meter incremeents modified_4
+  - first:
+      213: 625601568220685385
+    second: meter incremeents modified_5
+  - first:
+      213: 7097058370647432995
+    second: meter incremeents modified_6
+  - first:
+      213: -1744163037130843240
+    second: meter incremeents modified_7
+  - first:
+      213: 4317478251046934095
+    second: meter incremeents modified_8
+  - first:
+      213: -4330711664682726754
+    second: meter incremeents modified_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meter incremeents modified_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 868
+        width: 1073
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf2ee98416cb90c0800000000000000
+      internalID: -4567839605521502281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 843
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e2932a5826f09f0800000000000000
+      internalID: -500072707523006971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 662
+        width: 1073
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a6dfac7ecbf2b0800000000000000
+      internalID: -5549615080882657198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 637
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ec0a17f7ce1ca0800000000000000
+      internalID: -6044173785776725921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 440
+        width: 1073
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7291b9c31fc3aee0800000000000000
+      internalID: -1250928587583679875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_5
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 415
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a8bccf459ea800800000000000000
+      internalID: 625601568220685385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 218
+        width: 1073
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f17ac7cf0dd7260800000000000000
+      internalID: 7097058370647432995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_7
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 193
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b137d65fc7bc7e0800000000000000
+      internalID: -1744163037130843240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty Bar
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 1073
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4690272893caeb30800000000000000
+      internalID: 4317478251046934095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meter incremeents modified_9
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 25
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a02f1afa836e3c0800000000000000
+      internalID: -4330711664682726754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb00dac1db3be854da6e8a20f95bd56e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Empty Bar: 4317478251046934095
+      meter incremeents modified_0: -4567839605521502281
+      meter incremeents modified_1: -500072707523006971
+      meter incremeents modified_2: -5549615080882657198
+      meter incremeents modified_3: -6044173785776725921
+      meter incremeents modified_4: -1250928587583679875
+      meter incremeents modified_5: 625601568220685385
+      meter incremeents modified_6: 7097058370647432995
+      meter incremeents modified_7: -1744163037130843240
+      meter incremeents modified_9: -4330711664682726754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

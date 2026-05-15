@@ -119,10 +119,10 @@ public class SlipMovement : MonoBehaviour
     {
 
         isGrounded = true;
-        animator.SetBool("isJumping", !isGrounded);
+        animator.SetBool("isJumping", isGrounded);
 
     }
-
+   
     private void OnTriggerExit2D(Collider2D collision)
     {
         isGrounded = false;
