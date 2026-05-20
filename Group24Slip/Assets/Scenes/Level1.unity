@@ -648,7 +648,7 @@ Transform:
   m_GameObject: {fileID: 132830349}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 167.4, y: 2.7, z: -10}
+  m_LocalPosition: {x: 1.4000001, y: -1.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -672,7 +672,7 @@ MonoBehaviour:
     AngularDampingMode: 0
     RotationDamping: {x: 1, y: 1, z: 1}
     QuaternionDamping: 1
-  FollowOffset: {x: 0, y: 0, z: -10}
+  FollowOffset: {x: 8, y: 0, z: -10}
 --- !u!1 &213675571
 GameObject:
   m_ObjectHideFlags: 0
@@ -1226,7 +1226,7 @@ GameObject:
   - component: {fileID: 363095424}
   m_Layer: 0
   m_Name: nighttime_sidewalk_updated_0 (1)
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1749,7 +1749,7 @@ Transform:
   m_GameObject: {fileID: 480741025}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 167.39987, y: 1.8910736, z: -10}
+  m_LocalPosition: {x: 3.7707968, y: 1.6930645, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2401,7 +2401,7 @@ GameObject:
   - component: {fileID: 654224243}
   m_Layer: 0
   m_Name: nighttime_sidewalk_updated 1_0
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4896,6 +4896,10 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 3922378882137591393, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
+      propertyPath: m_GravityScale
+      value: 2.3
+      objectReference: {fileID: 0}
     - target: {fileID: 3957444359036050846, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
       propertyPath: m_Name
       value: Slip
@@ -4910,11 +4914,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3973638561453217348, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 167.4
+      value: -6.6
       objectReference: {fileID: 0}
     - target: {fileID: 3973638561453217348, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.7
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 3973638561453217348, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6057,6 +6061,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1704993015}
   m_CullTransparentMesh: 1
+--- !u!1 &1706280620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1706280622}
+  - component: {fileID: 1706280621}
+  m_Layer: 0
+  m_Name: SoundFXManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1706280621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706280620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fd6126a5b7dc24e8fa13f2e91b77d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSoundExtention
+  soundFXObject: {fileID: 1723623880438217126, guid: 101c7b6f3f46016488392e671d8c4e7f, type: 3}
+--- !u!4 &1706280622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706280620}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1720193050
 GameObject:
   m_ObjectHideFlags: 0
@@ -7540,7 +7589,7 @@ GameObject:
   - component: {fileID: 1990636970}
   m_Layer: 0
   m_Name: nighttime_sidewalk_updated_0
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8177,3 +8226,4 @@ SceneRoots:
   - {fileID: 219087637}
   - {fileID: 708443892}
   - {fileID: 132830352}
+  - {fileID: 1706280622}
