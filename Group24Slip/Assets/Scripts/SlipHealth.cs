@@ -5,7 +5,7 @@ public class SlipHealth : MonoBehaviour
     public int maxHealth = 100;
     public int currentHealth;
 
-    [SerializeField] private int _damageAmount; // Amount of damage to apply when colliding with an obstacle
+    [SerializeField] public int _damageAmount; // Amount of damage to apply when colliding with an obstacle
     [SerializeField] private GameController gameController; // Reference to the GameController script
 
     public HealthBar healthBar; // Reference to the health bar UI  
@@ -18,7 +18,7 @@ public class SlipHealth : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Obstacle"))
+        if (collision.gameObject.CompareTag("Obstacles"))
         {
             TakeDamage(_damageAmount);
         }
@@ -28,10 +28,11 @@ public class SlipHealth : MonoBehaviour
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+        Debug.Log("Player took damage. Current health: " + currentHealth);
         if (currentHealth == 0)
         {
            gameController.Die();
-            gameObject.SetActive(false); // Deactivate the player object
+          
         }
     }
 }

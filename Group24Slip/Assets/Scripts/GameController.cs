@@ -23,17 +23,19 @@ public class GameController : MonoBehaviour
         playerRotation = transform.rotation;
     }
 
-
-
     public void Die()
     {
         //StartCoroutine(Respawn(.5f));
+        if (gameObject.CompareTag("Player"))
+        {
+            gameObject.SetActive(false); // Deactivate the player object
+        }
     }
-    IEnumerable Respawn(float duration)
-    {
-        yield return new WaitForSeconds(duration);
-        transform.position = checkpointPos;
-        transform.rotation = playerRotation;
-        playerRb.linearVelocity = Vector2.zero;
-    }
+    //IEnumerable Respawn(float duration)
+    //{
+    //    yield return new WaitForSeconds(duration);
+    //    transform.position = checkpointPos;
+    //    transform.rotation = playerRotation;
+    //    playerRb.linearVelocity = Vector2.zero;
+    //}
 }

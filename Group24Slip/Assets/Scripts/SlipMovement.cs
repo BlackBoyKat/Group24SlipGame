@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 
@@ -26,6 +27,13 @@ public class SlipMovement : MonoBehaviour
     [Header("Coyote Time")]
     public float coyoteTime = 0.2f;
     private float coyoteTimeCounter;
+
+    [Header("Acceleration")]
+    public float acceleration = 70f;
+    public float deceleration = 50f;
+    public float maxSpeed = 15f;
+    public float currentSpeed = 0f;
+    public float currentForwardDirection = 1;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -114,16 +122,40 @@ public class SlipMovement : MonoBehaviour
     private void FixedUpdate()
     {
         Move();
-        
     }
 
-    //This method is to make the player move, the method CheckFlipping was called here in the move method as it's relevant to the movement, it will be explained further domw.
     private void Move()
     {
 
-        body.linearVelocity = new Vector2(axisMovement.x * slipSpeed, body.linearVelocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
+        body.linearVelocity = new Vector2(axisMovement.x * currentSpeed, body.linearVelocity.y); //axis Movement is the x, y. Multiplying by the speed slipFactor makes it faster.
 
+
+        //Acceleration and Deceleration
+        CaculateSpeed(axisMovement);
+
+        if(axisMovement.x > 0.5)
+        {
+            currentForwardDirection = 1;
+        }
+        else if (axisMovement.x < -0.5)
+        {
+            currentForwardDirection = -1;
+        }
     }
+
+    private void CaculateSpeed(Vector2 movementVector)
+    {
+        if (Mathf.Abs(axisMovement.x) > 0) // If there is input
+        {
+            currentSpeed += acceleration * Time.fixedDeltaTime; // Accelerate
+        }
+        else // No input
+        {
+            currentSpeed -= deceleration * Time.fixedDeltaTime; // Decelerate
+        }
+        currentSpeed = Mathf.Clamp(currentSpeed, 0, maxSpeed);
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
