@@ -31,6 +31,7 @@ public class SlipHealth : MonoBehaviour
         if (currentHealth == 0)
         {
            gameController.Die();
+            gameObject.SetActive(false); // Deactivate the player object
         }
     }
 }

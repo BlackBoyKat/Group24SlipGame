@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3922378882137591393}
   - component: {fileID: 4113884565748217018}
   - component: {fileID: 1366218615701959086}
+  - component: {fileID: -8222586132305494144}
   m_Layer: 0
   m_Name: Slip
   m_TagString: Player
@@ -107,10 +108,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 727418bf3a5387547b3dd0886aa6b893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlipMovement
-  jumpPower: 10
-  slipSpeed: 20
+  jumpPower: 12
+  slipSpeed: 6
   fallMultiplier: 2.5
   lowJumpMultiplier: 2
+  coyoteTime: 0.2
 --- !u!50 &3922378882137591393
 Rigidbody2D:
   serializedVersion: 5
@@ -296,3 +298,20 @@ PolygonCollider2D:
       - {x: 1.5625, y: -1.21875}
       - {x: 1.625, y: -1.28125}
   m_UseDelaunayMesh: 1
+--- !u!114 &-8222586132305494144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3957444359036050846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26db93970f0fcd4f9f82b79ca7a7ce7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SlipHealth
+  maxHealth: 100
+  currentHealth: 0
+  _damageAmount: 0
+  gameController: {fileID: 0}
+  healthBar: {fileID: 0}
