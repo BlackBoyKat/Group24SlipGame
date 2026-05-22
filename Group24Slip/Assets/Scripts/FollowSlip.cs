@@ -2,12 +2,17 @@ using UnityEngine;
 
 public class FollowSlip : MonoBehaviour
 {
-    public Transform Slip; // The target to follow
-    public Vector3 Offset; // The offset from the target
+    public static FollowSlip Instance;
 
-    private void FixedUpdate()
-    {
-        transform.position = new Vector3(Slip.position.x + Offset.x, Slip.position.y + Offset.y, Offset.z);
-    }
+    [Header("Controls for lerping the Y Damping during player fall and jump")]
+    [SerializeField] private float fallPanAmount = 0.25f;
+    [SerializeField] private float fallYPanTime = 0.25f;
+    public float _fallSpeedYDampingChangeThreshold = 15f;
+
+    public bool isLerpingYDamping { get; private set; }
+    public bool lerpedFromPlayerFalling { get; set; }
+
+    private Coroutine _lerpYPanCoroutine;
+
 
 }
