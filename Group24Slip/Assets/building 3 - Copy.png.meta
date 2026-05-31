@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d471ee9659b942948bddb34ffb31d658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7009730011937504172
+    second: building 3 - Copy_0
+  - first:
+      213: -9067095252167436024
+    second: building 3 - Copy_1
+  - first:
+      213: 8084081275044282433
+    second: building 3 - Copy_2
+  - first:
+      213: 7383286383405966685
+    second: building 3 - Copy_3
+  - first:
+      213: -2570319342570389843
+    second: building 3 - Copy_4
+  - first:
+      213: -8396874465476282417
+    second: building 3 - Copy_5
+  - first:
+      213: 2710641164728013147
+    second: building 3 - Copy_6
+  - first:
+      213: 8599287018145454170
+    second: building 3 - Copy_7
+  - first:
+      213: -6282964028790206461
+    second: building 3 - Copy_8
+  - first:
+      213: -6532953939809722411
+    second: building 3 - Copy_9
+  - first:
+      213: 4674079848005594454
+    second: building 3 - Copy_10
+  - first:
+      213: 5066921036885714463
+    second: building 3 - Copy_11
+  - first:
+      213: 4011660396663806437
+    second: building 3 - Copy_12
+  - first:
+      213: 6815583555894510472
+    second: building 3 - Copy_13
+  - first:
+      213: -8029148226340966435
+    second: building 3 - Copy_14
+  - first:
+      213: -7560442311582554724
+    second: building 3 - Copy_15
+  - first:
+      213: -4248607499565030541
+    second: building 3 - Copy_16
+  - first:
+      213: -4655291812000170615
+    second: building 3 - Copy_17
+  - first:
+      213: 96819659076645412
+    second: building 3 - Copy_18
+  - first:
+      213: -7290509420409808197
+    second: building 3 - Copy_19
+  - first:
+      213: -640830720997182964
+    second: building 3 - Copy_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building 3 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 119
+        width: 1284
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454021b71bf68be90800000000000000
+      internalID: -7009730011937504172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809dded58e43b2280800000000000000
+      internalID: -9067095252167436024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c66e961d603070800000000000000
+      internalID: 8084081275044282433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5524ede8d3b67660800000000000000
+      internalID: 7383286383405966685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 117
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb6c21d24645cd0800000000000000
+      internalID: -2570319342570389843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 105
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7fcb5892f487b80800000000000000
+      internalID: -8396874465476282417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 112
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b511a2917c12e9520800000000000000
+      internalID: 2710641164728013147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5810366bfdc65770800000000000000
+      internalID: 8599287018145454170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300176f118d6ec8a0800000000000000
+      internalID: -6282964028790206461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df17ab31094655a0800000000000000
+      internalID: -6532953939809722411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6f208bdaadd040800000000000000
+      internalID: 4674079848005594454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e68c56d1515640800000000000000
+      internalID: 5066921036885714463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e916a640e74ca730800000000000000
+      internalID: 4011660396663806437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88306123221d59e50800000000000000
+      internalID: 6815583555894510472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2df77a3cb29090800000000000000
+      internalID: -8029148226340966435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 95
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e94946c9e31790800000000000000
+      internalID: -7560442311582554724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 88
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373ad5e3df9e905c0800000000000000
+      internalID: -4248607499565030541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df1f303c4156fb0800000000000000
+      internalID: -4655291812000170615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b98a87f8f75100800000000000000
+      internalID: 96819659076645412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba95d41f48e2da90800000000000000
+      internalID: -7290509420409808197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building 3 - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 83
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023ec1cadf4b17f0800000000000000
+      internalID: -640830720997182964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      building 3 - Copy_0: -7009730011937504172
+      building 3 - Copy_1: -9067095252167436024
+      building 3 - Copy_10: 4674079848005594454
+      building 3 - Copy_11: 5066921036885714463
+      building 3 - Copy_12: 4011660396663806437
+      building 3 - Copy_13: 6815583555894510472
+      building 3 - Copy_14: -8029148226340966435
+      building 3 - Copy_15: -7560442311582554724
+      building 3 - Copy_16: -4248607499565030541
+      building 3 - Copy_17: -4655291812000170615
+      building 3 - Copy_18: 96819659076645412
+      building 3 - Copy_19: -7290509420409808197
+      building 3 - Copy_2: 8084081275044282433
+      building 3 - Copy_20: -640830720997182964
+      building 3 - Copy_3: 7383286383405966685
+      building 3 - Copy_4: -2570319342570389843
+      building 3 - Copy_5: -8396874465476282417
+      building 3 - Copy_6: 2710641164728013147
+      building 3 - Copy_7: 8599287018145454170
+      building 3 - Copy_8: -6282964028790206461
+      building 3 - Copy_9: -6532953939809722411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
