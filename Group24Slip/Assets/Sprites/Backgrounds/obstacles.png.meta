@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 6a75f5df8c124d2438d102df6777b709
+guid: e40430dbc17b946459dc7b5292c3b7f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5485091114879229203
-    second: fine_shyt_devistated_0
+      213: 4092514144187842027
+    second: obstacles_0
+  - first:
+      213: -675650125194207516
+    second: obstacles_1
+  - first:
+      213: -9187242211370392559
+    second: obstacles_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +78,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,23 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fine_shyt_devistated_0
+      name: Hydrolic press
       rect:
         serializedVersion: 2
-        x: 38
-        y: 90
-        width: 411
-        height: 348
+        x: 209
+        y: 259
+        width: 408
+        height: 792
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31d1707ce45fe1c40800000000000000
-      internalID: 5485091114879229203
+      spriteID: bedf39a5ee78bc830800000000000000
+      internalID: 4092514144187842027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huge bin
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 132
+        width: 752
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 34}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed9577acb9f96f0800000000000000
+      internalID: -675650125194207516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage container
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 655
+        width: 595
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142bc582eb508080800000000000000
+      internalID: -9187242211370392559
       vertices: []
       indices: 
       edges: []
@@ -138,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 90d2e16f8934a9b4db77de9b39622d1e
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fine_shyt_devistated_0: 5485091114879229203
+      Huge bin: -675650125194207516
+      Hydrolic press: 4092514144187842027
+      storage container: -9187242211370392559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

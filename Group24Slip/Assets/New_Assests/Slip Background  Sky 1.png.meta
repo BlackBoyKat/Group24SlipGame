@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 23f29118e9335a047a37969b3f78c6a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 579777822038696566
+    second: Slip Background  Sky 1_0
+  - first:
+      213: 8697369993446802891
+    second: Slip Background  Sky 1_1
+  - first:
+      213: 550371726334704485
+    second: Slip Background  Sky 1_2
+  - first:
+      213: 4890050869592743225
+    second: Slip Background  Sky 1_3
+  - first:
+      213: 2556361675101622379
+    second: Slip Background  Sky 1_4
+  - first:
+      213: -446081017995696075
+    second: Slip Background  Sky 1_5
+  - first:
+      213: 4145034484204982863
+    second: Slip Background  Sky 1_6
+  - first:
+      213: 5152895527988069212
+    second: Slip Background  Sky 1_7
+  - first:
+      213: 5687892850823341404
+    second: Slip Background  Sky 1_8
+  - first:
+      213: 8662497472034922001
+    second: Slip Background  Sky 1_9
+  - first:
+      213: 6664921467683435673
+    second: Slip Background  Sky 1_10
+  - first:
+      213: 1683269822888952910
+    second: Slip Background  Sky 1_11
+  - first:
+      213: 7800650981950447516
+    second: Slip Background  Sky 1_12
+  - first:
+      213: 7967204481173288801
+    second: Slip Background  Sky 1_13
+  - first:
+      213: -7251802358431313088
+    second: Slip Background  Sky 1_14
+  - first:
+      213: 5918257012158595233
+    second: Slip Background  Sky 1_15
+  - first:
+      213: 1817424530737592968
+    second: Slip Background  Sky 1_16
+  - first:
+      213: 114223148568161740
+    second: Slip Background  Sky 1_17
+  - first:
+      213: -1188228061084000014
+    second: Slip Background  Sky 1_18
+  - first:
+      213: -1727385594193464312
+    second: Slip Background  Sky 1_19
+  - first:
+      213: -1865123345569000264
+    second: Slip Background  Sky 1_20
+  - first:
+      213: 3856896811993446753
+    second: Slip Background  Sky 1_21
+  - first:
+      213: -3674476171494812732
+    second: Slip Background  Sky 1_22
+  - first:
+      213: 4240692222961193386
+    second: Slip Background  Sky 1_23
+  - first:
+      213: -732212003470949929
+    second: Slip Background  Sky 1_24
+  - first:
+      213: -6002735340081554311
+    second: Slip Background  Sky 1_25
+  - first:
+      213: 6963613970938664839
+    second: Slip Background  Sky 1_26
+  - first:
+      213: -1971791250593745482
+    second: Slip Background  Sky 1_27
+  - first:
+      213: -8019357304591215534
+    second: Slip Background  Sky 1_28
+  - first:
+      213: -3262997039652585846
+    second: Slip Background  Sky 1_29
+  - first:
+      213: -7088285148204090385
+    second: Slip Background  Sky 1_30
+  - first:
+      213: -2039471520109070739
+    second: Slip Background  Sky 1_31
+  - first:
+      213: 3825976914520874425
+    second: Slip Background  Sky 1_32
+  - first:
+      213: -2811355786428923859
+    second: Slip Background  Sky 1_33
+  - first:
+      213: -3543280533876176300
+    second: Slip Background  Sky 1_34
+  - first:
+      213: 3743807778900499144
+    second: Slip Background  Sky 1_35
+  - first:
+      213: -7933931211076571613
+    second: Slip Background  Sky 1_36
+  - first:
+      213: 7277398833058023490
+    second: Slip Background  Sky 1_37
+  - first:
+      213: 1963602952785910416
+    second: Slip Background  Sky 1_38
+  - first:
+      213: 3586039225848453140
+    second: Slip Background  Sky 1_39
+  - first:
+      213: -6880654331118282607
+    second: Slip Background  Sky 1_40
+  - first:
+      213: 8034708738047284733
+    second: Slip Background  Sky 1_41
+  - first:
+      213: -7096782246271344485
+    second: Slip Background  Sky 1_42
+  - first:
+      213: -8993066719277547721
+    second: Slip Background  Sky 1_43
+  - first:
+      213: -3290213666482730471
+    second: Slip Background  Sky 1_44
+  - first:
+      213: -5336591614086134227
+    second: Slip Background  Sky 1_45
+  - first:
+      213: -7093319266917729832
+    second: Slip Background  Sky 1_46
+  - first:
+      213: 3761141504476080304
+    second: Slip Background  Sky 1_47
+  - first:
+      213: 7584440438358564119
+    second: Slip Background  Sky 1_48
+  - first:
+      213: 753735384315133387
+    second: Slip Background  Sky 1_49
+  - first:
+      213: -9942028612440099
+    second: Slip Background  Sky 1_50
+  - first:
+      213: 1270618942878997004
+    second: Slip Background  Sky 1_51
+  - first:
+      213: -8973317054807966939
+    second: Slip Background  Sky 1_52
+  - first:
+      213: 3989617489744527322
+    second: Slip Background  Sky 1_53
+  - first:
+      213: -4285052500387981391
+    second: Slip Background  Sky 1_54
+  - first:
+      213: -993921845318815963
+    second: Slip Background  Sky 1_55
+  - first:
+      213: -6129183067390874525
+    second: Slip Background  Sky 1_56
+  - first:
+      213: 3546988452419449885
+    second: Slip Background  Sky 1_57
+  - first:
+      213: 1936113725537612485
+    second: Slip Background  Sky 1_58
+  - first:
+      213: 7483637750646997124
+    second: Slip Background  Sky 1_59
+  - first:
+      213: 8466407840787168321
+    second: Slip Background  Sky 1_60
+  - first:
+      213: 8174434202764928774
+    second: Slip Background  Sky 1_61
+  - first:
+      213: -550605453230226543
+    second: Slip Background  Sky 1_62
+  - first:
+      213: -7967771928691488858
+    second: Slip Background  Sky 1_63
+  - first:
+      213: -8985696656398447756
+    second: Slip Background  Sky 1_64
+  - first:
+      213: 4715378438002884245
+    second: Slip Background  Sky 1_65
+  - first:
+      213: -558918245894436295
+    second: Slip Background  Sky 1_66
+  - first:
+      213: 5223297864344671260
+    second: Slip Background  Sky 1_67
+  - first:
+      213: -2973565858607348491
+    second: Slip Background  Sky 1_68
+  - first:
+      213: 3081560149004181308
+    second: Slip Background  Sky 1_69
+  - first:
+      213: 3288897965291045403
+    second: Slip Background  Sky 1_70
+  - first:
+      213: 7462451354385782239
+    second: Slip Background  Sky 1_71
+  - first:
+      213: 6278755997271862187
+    second: Slip Background  Sky 1_72
+  - first:
+      213: -737303872592996239
+    second: Slip Background  Sky 1_73
+  - first:
+      213: 1722206494294952502
+    second: Slip Background  Sky 1_74
+  - first:
+      213: 3627848579443547329
+    second: Slip Background  Sky 1_75
+  - first:
+      213: -2892434850729320551
+    second: Slip Background  Sky 1_76
+  - first:
+      213: 951507123367103115
+    second: Slip Background  Sky 1_77
+  - first:
+      213: 6480044282418882243
+    second: Slip Background  Sky 1_78
+  - first:
+      213: -7510579887223249187
+    second: Slip Background  Sky 1_79
+  - first:
+      213: -5314956154347753498
+    second: Slip Background  Sky 1_80
+  - first:
+      213: 1267681980651682412
+    second: Slip Background  Sky 1_81
+  - first:
+      213: 7371585589152644719
+    second: Slip Background  Sky 1_82
+  - first:
+      213: 4443399316364939227
+    second: Slip Background  Sky 1_83
+  - first:
+      213: -2114899610270957212
+    second: Slip Background  Sky 1_84
+  - first:
+      213: -5286456661420610061
+    second: Slip Background  Sky 1_85
+  - first:
+      213: -5782958478850009593
+    second: Slip Background  Sky 1_86
+  - first:
+      213: -621081145581383562
+    second: Slip Background  Sky 1_87
+  - first:
+      213: 7030304072146587103
+    second: Slip Background  Sky 1_88
+  - first:
+      213: 738100355607730837
+    second: Slip Background  Sky 1_89
+  - first:
+      213: 3975633210208545376
+    second: Slip Background  Sky 1_90
+  - first:
+      213: -3878503072623294513
+    second: Slip Background  Sky 1_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 918
+        width: 928
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672244b7bd8cb0800800000000000000
+      internalID: 579777822038696566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1058
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c98bade343b870800000000000000
+      internalID: 8697369993446802891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 884
+        width: 861
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b399a4b2053a700800000000000000
+      internalID: 550371726334704485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_3
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1033
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d5aa77b53fcd340800000000000000
+      internalID: 4890050869592743225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 960
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60dad936650a7320800000000000000
+      internalID: 2556361675101622379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 640
+        width: 1419
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53862557da33fc9f0800000000000000
+      internalID: -446081017995696075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 860
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4258cce6ee168930800000000000000
+      internalID: 4145034484204982863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 624
+        width: 620
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c538d667e23c28740800000000000000
+      internalID: 5152895527988069212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 642
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552fcd79647fee40800000000000000
+      internalID: 5687892850823341404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 381
+        width: 448
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e5c501e8f573870800000000000000
+      internalID: 8662497472034922001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_10
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 504
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994752933ce8e7c50800000000000000
+      internalID: 6664921467683435673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 491
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e444e6e4cfc2c5710800000000000000
+      internalID: 1683269822888952910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_12
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 235
+        width: 217
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f55fb0dba714c60800000000000000
+      internalID: 7800650981950447516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_13
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 94
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fb397342319e60800000000000000
+      internalID: 7967204481173288801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_14
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 113
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439c5c3d2c6c5b90800000000000000
+      internalID: -7251802358431313088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_15
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 131
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a08d23756fd12250800000000000000
+      internalID: 5918257012158595233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_16
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 134
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af1b84bf9c83910800000000000000
+      internalID: 1817424530737592968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_17
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 127
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2883395dc59100800000000000000
+      internalID: 114223148568161740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_18
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 126
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0efeabfd0928fe0800000000000000
+      internalID: -1188228061084000014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_19
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 123
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804b8f344f71708e0800000000000000
+      internalID: -1727385594193464312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_20
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 50
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45215f230cd16e0800000000000000
+      internalID: -1865123345569000264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_21
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 100
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169b43e3733768530800000000000000
+      internalID: 3856896811993446753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_22
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 86
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31a66e363a10dc0800000000000000
+      internalID: -3674476171494812732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_23
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11d5fcb17f9da30800000000000000
+      internalID: 4240692222961193386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_24
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 121
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d146d0ff09a6d5f0800000000000000
+      internalID: -732212003470949929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_25
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 110
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c51c5130002bca0800000000000000
+      internalID: -6002735340081554311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_26
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 77
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7871fb2030ab3a060800000000000000
+      internalID: 6963613970938664839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_27
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 106
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f229fd4ac2a4e0800000000000000
+      internalID: -1971791250593745482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_28
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 97
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25418e4150585b090800000000000000
+      internalID: -8019357304591215534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_29
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 45
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3b540b7187b2d0800000000000000
+      internalID: -3262997039652585846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_30
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb3e9a863a51ad90800000000000000
+      internalID: -7088285148204090385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_31
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 83
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667f52457752b3e0800000000000000
+      internalID: -2039471520109070739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_32
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9cdc9bb9981530800000000000000
+      internalID: 3825976914520874425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_33
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 84
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d204aa4bece0cf8d0800000000000000
+      internalID: -2811355786428923859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_34
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 100
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a01c6a02db3dec0800000000000000
+      internalID: -3543280533876176300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_35
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 0
+        width: 281
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca55b0e65da4f330800000000000000
+      internalID: 3743807778900499144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_36
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e656b699305e190800000000000000
+      internalID: -7933931211076571613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_37
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 78
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248044d6ea38ef460800000000000000
+      internalID: 7277398833058023490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_38
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a56b06b7e104b10800000000000000
+      internalID: 1963602952785910416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_39
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 76
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418505f1dab24c130800000000000000
+      internalID: 3586039225848453140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_40
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 95
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198117357510380a0800000000000000
+      internalID: -6880654331118282607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_41
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 76
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5190d0705018f60800000000000000
+      internalID: 8034708738047284733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_42
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 85
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90a2bab52a238d90800000000000000
+      internalID: -7096782246271344485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_43
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff2145775323380800000000000000
+      internalID: -8993066719277547721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_44
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 63
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a49264a10d652d0800000000000000
+      internalID: -3290213666482730471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_45
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 79
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264113933e90f5b0800000000000000
+      internalID: -5336591614086134227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_46
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 78
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93fe075b77f8d90800000000000000
+      internalID: -7093319266917729832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_47
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 70
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8664c5542423430800000000000000
+      internalID: 3761141504476080304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_48
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 77
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d58740568514960800000000000000
+      internalID: 7584440438358564119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_49
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdfebca65ec57a00800000000000000
+      internalID: 753735384315133387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_50
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf653417cdacdff0800000000000000
+      internalID: -9942028612440099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_51
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 74
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5f2f423522a110800000000000000
+      internalID: 1270618942878997004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_52
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 74
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b773b6eaf587380800000000000000
+      internalID: -8973317054807966939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_53
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 61
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf78e118f7fd5730800000000000000
+      internalID: 3989617489744527322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 69
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7997e347f6884c0800000000000000
+      internalID: -4285052500387981391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_55
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f65430951e432f0800000000000000
+      internalID: -993921845318815963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_56
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce3d85974c0faa0800000000000000
+      internalID: -6129183067390874525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_57
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14bfd8643f693130800000000000000
+      internalID: 3546988452419449885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_58
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27d67ec257eda10800000000000000
+      internalID: 1936113725537612485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_59
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 56
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480840b52e83bd760800000000000000
+      internalID: 7483637750646997124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_60
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c73b10319be7570800000000000000
+      internalID: 8466407840787168321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_61
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 52
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076b9fe89c617170800000000000000
+      internalID: 8174434202764928774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_62
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 49
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193c1dce14bdb58f0800000000000000
+      internalID: -550605453230226543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_63
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c30b55a9cc6190800000000000000
+      internalID: -7967771928691488858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_64
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 49
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b84ffcf746c4380800000000000000
+      internalID: -8985696656398447756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_65
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 61
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eb2bac4b3607140800000000000000
+      internalID: 4715378438002884245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_66
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 63
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a4afe01d25e38f0800000000000000
+      internalID: -558918245894436295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_67
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 47
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141250cbb1ec7840800000000000000
+      internalID: 5223297864344671260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_68
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 42
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ca713b95cbb6d0800000000000000
+      internalID: -2973565858607348491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_69
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 61
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd463f0a6e3ca20800000000000000
+      internalID: 3081560149004181308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_70
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 47
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b128dab264384ad20800000000000000
+      internalID: 3288897965291045403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_71
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 49
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51cc318f3ff8760800000000000000
+      internalID: 7462451354385782239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_72
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 37
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2eb0305f922750800000000000000
+      internalID: 6278755997271862187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_73
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 26
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781396c80294c5f0800000000000000
+      internalID: -737303872592996239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_74
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a42529ea186e710800000000000000
+      internalID: 1722206494294952502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_75
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 39
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc53a4df05b85230800000000000000
+      internalID: 3627848579443547329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 36
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f915af3d10cd7d0800000000000000
+      internalID: -2892434850729320551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_77
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 45
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8acc89ffae643d00800000000000000
+      internalID: 951507123367103115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_78
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 35
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6e06e21fdbde950800000000000000
+      internalID: 6480044282418882243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_79
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd66dd4a26f05c790800000000000000
+      internalID: -7510579887223249187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_80
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef6357998b7d36b0800000000000000
+      internalID: -5314956154347753498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_81
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 20
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a38e08b06b79110800000000000000
+      internalID: 1267681980651682412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_82
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ef4d879022d4660800000000000000
+      internalID: 7371585589152644719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_83
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 18
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf4527d2202aad30800000000000000
+      internalID: 4443399316364939227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_84
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461003a720e56a2e0800000000000000
+      internalID: -2114899610270957212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_85
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 21
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fde68fdcabb2a6b0800000000000000
+      internalID: -5286456661420610061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_86
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706df4527edcebfa0800000000000000
+      internalID: -5782958478850009593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_87
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ddec1df97167f0800000000000000
+      internalID: -621081145581383562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_88
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd87433e48a09160800000000000000
+      internalID: 7030304072146587103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_89
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9690ec524e3a00800000000000000
+      internalID: 738100355607730837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_90
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae9b347594c2730800000000000000
+      internalID: 3975633210208545376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slip Background  Sky 1_91
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70700310acc2ac0800000000000000
+      internalID: -3878503072623294513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slip Background  Sky 1_0: 579777822038696566
+      Slip Background  Sky 1_1: 8697369993446802891
+      Slip Background  Sky 1_10: 6664921467683435673
+      Slip Background  Sky 1_11: 1683269822888952910
+      Slip Background  Sky 1_12: 7800650981950447516
+      Slip Background  Sky 1_13: 7967204481173288801
+      Slip Background  Sky 1_14: -7251802358431313088
+      Slip Background  Sky 1_15: 5918257012158595233
+      Slip Background  Sky 1_16: 1817424530737592968
+      Slip Background  Sky 1_17: 114223148568161740
+      Slip Background  Sky 1_18: -1188228061084000014
+      Slip Background  Sky 1_19: -1727385594193464312
+      Slip Background  Sky 1_2: 550371726334704485
+      Slip Background  Sky 1_20: -1865123345569000264
+      Slip Background  Sky 1_21: 3856896811993446753
+      Slip Background  Sky 1_22: -3674476171494812732
+      Slip Background  Sky 1_23: 4240692222961193386
+      Slip Background  Sky 1_24: -732212003470949929
+      Slip Background  Sky 1_25: -6002735340081554311
+      Slip Background  Sky 1_26: 6963613970938664839
+      Slip Background  Sky 1_27: -1971791250593745482
+      Slip Background  Sky 1_28: -8019357304591215534
+      Slip Background  Sky 1_29: -3262997039652585846
+      Slip Background  Sky 1_3: 4890050869592743225
+      Slip Background  Sky 1_30: -7088285148204090385
+      Slip Background  Sky 1_31: -2039471520109070739
+      Slip Background  Sky 1_32: 3825976914520874425
+      Slip Background  Sky 1_33: -2811355786428923859
+      Slip Background  Sky 1_34: -3543280533876176300
+      Slip Background  Sky 1_35: 3743807778900499144
+      Slip Background  Sky 1_36: -7933931211076571613
+      Slip Background  Sky 1_37: 7277398833058023490
+      Slip Background  Sky 1_38: 1963602952785910416
+      Slip Background  Sky 1_39: 3586039225848453140
+      Slip Background  Sky 1_4: 2556361675101622379
+      Slip Background  Sky 1_40: -6880654331118282607
+      Slip Background  Sky 1_41: 8034708738047284733
+      Slip Background  Sky 1_42: -7096782246271344485
+      Slip Background  Sky 1_43: -8993066719277547721
+      Slip Background  Sky 1_44: -3290213666482730471
+      Slip Background  Sky 1_45: -5336591614086134227
+      Slip Background  Sky 1_46: -7093319266917729832
+      Slip Background  Sky 1_47: 3761141504476080304
+      Slip Background  Sky 1_48: 7584440438358564119
+      Slip Background  Sky 1_49: 753735384315133387
+      Slip Background  Sky 1_5: -446081017995696075
+      Slip Background  Sky 1_50: -9942028612440099
+      Slip Background  Sky 1_51: 1270618942878997004
+      Slip Background  Sky 1_52: -8973317054807966939
+      Slip Background  Sky 1_53: 3989617489744527322
+      Slip Background  Sky 1_54: -4285052500387981391
+      Slip Background  Sky 1_55: -993921845318815963
+      Slip Background  Sky 1_56: -6129183067390874525
+      Slip Background  Sky 1_57: 3546988452419449885
+      Slip Background  Sky 1_58: 1936113725537612485
+      Slip Background  Sky 1_59: 7483637750646997124
+      Slip Background  Sky 1_6: 4145034484204982863
+      Slip Background  Sky 1_60: 8466407840787168321
+      Slip Background  Sky 1_61: 8174434202764928774
+      Slip Background  Sky 1_62: -550605453230226543
+      Slip Background  Sky 1_63: -7967771928691488858
+      Slip Background  Sky 1_64: -8985696656398447756
+      Slip Background  Sky 1_65: 4715378438002884245
+      Slip Background  Sky 1_66: -558918245894436295
+      Slip Background  Sky 1_67: 5223297864344671260
+      Slip Background  Sky 1_68: -2973565858607348491
+      Slip Background  Sky 1_69: 3081560149004181308
+      Slip Background  Sky 1_7: 5152895527988069212
+      Slip Background  Sky 1_70: 3288897965291045403
+      Slip Background  Sky 1_71: 7462451354385782239
+      Slip Background  Sky 1_72: 6278755997271862187
+      Slip Background  Sky 1_73: -737303872592996239
+      Slip Background  Sky 1_74: 1722206494294952502
+      Slip Background  Sky 1_75: 3627848579443547329
+      Slip Background  Sky 1_76: -2892434850729320551
+      Slip Background  Sky 1_77: 951507123367103115
+      Slip Background  Sky 1_78: 6480044282418882243
+      Slip Background  Sky 1_79: -7510579887223249187
+      Slip Background  Sky 1_8: 5687892850823341404
+      Slip Background  Sky 1_80: -5314956154347753498
+      Slip Background  Sky 1_81: 1267681980651682412
+      Slip Background  Sky 1_82: 7371585589152644719
+      Slip Background  Sky 1_83: 4443399316364939227
+      Slip Background  Sky 1_84: -2114899610270957212
+      Slip Background  Sky 1_85: -5286456661420610061
+      Slip Background  Sky 1_86: -5782958478850009593
+      Slip Background  Sky 1_87: -621081145581383562
+      Slip Background  Sky 1_88: 7030304072146587103
+      Slip Background  Sky 1_89: 738100355607730837
+      Slip Background  Sky 1_9: 8662497472034922001
+      Slip Background  Sky 1_90: 3975633210208545376
+      Slip Background  Sky 1_91: -3878503072623294513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

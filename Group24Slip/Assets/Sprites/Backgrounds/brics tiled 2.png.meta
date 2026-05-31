@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6a75f5df8c124d2438d102df6777b709
+guid: 8326b7ea64a9ad34b8afa5b543536564
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5485091114879229203
-    second: fine_shyt_devistated_0
+      213: 184436949629427814
+    second: brics tiled 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fine_shyt_devistated_0
+      name: brics tiled 2_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 90
-        width: 411
-        height: 348
+        x: 21
+        y: 12
+        width: 614
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31d1707ce45fe1c40800000000000000
-      internalID: 5485091114879229203
+      spriteID: 6606e12bd604f8200800000000000000
+      internalID: 184436949629427814
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fine_shyt_devistated_0: 5485091114879229203
+      brics tiled 2_0: 184436949629427814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

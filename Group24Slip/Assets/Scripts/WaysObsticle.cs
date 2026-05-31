@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class WaysObsticle : MonoBehaviour
 {
-    [Range(0,5)]
-    public float speed;
+    [Range(0,10)]
+    public int speed;
 
     [Range(0,2)]
     Vector3 targetPos;
