@@ -32,11 +32,6 @@ public class SFXManager : MonoBehaviour
             audioSource.PlayOneShot(audioClip);
         }
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        sfxSlider.onValueChanged.AddListener(delegate { OnValueChanged(); });
-    }
 
     public static void SetVolume(float volume)
     {

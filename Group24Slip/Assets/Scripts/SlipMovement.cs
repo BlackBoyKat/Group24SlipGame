@@ -105,7 +105,7 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x -= 1f;
             isPushing = true;
-            SFXManager.Play("Push Effects");
+
             //flips without resizing
             SpriteRenderer.flipX = true;
         }
@@ -114,7 +114,6 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x += 1f;
             isPushing = true;
-            SFXManager.Play("Push Effects");
 
             SpriteRenderer.flipX = false;
         }

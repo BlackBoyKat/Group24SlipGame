@@ -13,6 +13,7 @@ public class GameController : MonoBehaviour
 
     public GameObject gameOverScreen;
     public GameObject failedImage;
+    public GameObject finishLine;
 
     public void Start()
     {
@@ -25,6 +26,7 @@ public class GameController : MonoBehaviour
 
     void GameOverScreen()
     {
+        SFXManager.Play("lose");
         gameOverScreen.SetActive(true);
         failedImage.SetActive(true);
     }
