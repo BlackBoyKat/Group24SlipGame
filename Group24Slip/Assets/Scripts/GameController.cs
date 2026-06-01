@@ -14,6 +14,7 @@ public class GameController : MonoBehaviour
     public GameObject gameOverScreen;
     public GameObject failedImage;
     public GameObject finishLine;
+    public GameObject outOfBounds;
 
     public void Start()
     {
@@ -48,7 +49,8 @@ public class GameController : MonoBehaviour
     {
         if (gameObject.CompareTag("Player"))
         {
-            gameObject.SetActive(false); // Deactivate the player object
+            GameOverScreen();
+            gameObject.SetActive(false);
         }
     }
 }

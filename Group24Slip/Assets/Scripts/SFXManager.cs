@@ -14,9 +14,11 @@ public class SFXManager : MonoBehaviour
         if (instance == null)
         {
             instance = this;
+            DontDestroyOnLoad(gameObject);
+
             audioSource = GetComponent<AudioSource>();
             soundEffectLibrary = GetComponent<SoundEffectLibrary>();
-            DontDestroyOnLoad(gameObject);
+            
         }
         else
         {
@@ -32,19 +34,5 @@ public class SFXManager : MonoBehaviour
             audioSource.PlayOneShot(audioClip);
         }
     }
-
-    public static void SetVolume(float volume)
-    {
-        audioSource.volume = volume;
-    } 
-
-    public void OnValueChanged()
-    {
-        SetVolume(sfxSlider.value);
-    }
-
-    internal static float SetVolume()
-    {
-        throw new NotImplementedException();
-    }
+   
 }

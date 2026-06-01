@@ -1561,6 +1561,7 @@ Transform:
   m_Children:
   - {fileID: 1217429162}
   - {fileID: 1042789828}
+  - {fileID: 1855558784}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &240602387
@@ -5910,11 +5911,6 @@ PolygonCollider2D:
       - {x: 20.290066, y: -8.790474}
       - {x: 25.267075, y: -8.784836}
   m_UseDelaunayMesh: 0
---- !u!1 &770557043 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3957444359036050846, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
-  m_PrefabInstance: {fileID: 1292894433}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &774589917
 GameObject:
   m_ObjectHideFlags: 0
@@ -8998,13 +8994,11 @@ PrefabInstance:
       propertyPath: deceleration
       value: 30
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -8222586132305494144, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3957444359036050846, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2128595773}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
 --- !u!1 &1294574921
 GameObject:
@@ -13981,8 +13975,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855558782}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 290.87, y: -2.12, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.143402, y: 30.838001, z: 0}
   m_LocalScale: {x: 0.6417125, y: 0.681101, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14022,7 +14016,7 @@ Transform:
   - {fileID: 2141249878}
   - {fileID: 1347301686}
   - {fileID: 334828784}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 219087637}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1897312600
 GameObject:
@@ -15716,24 +15710,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3973638561453217348, guid: 19f71ea65e2a21d468b182385265bc7b, type: 3}
   m_PrefabInstance: {fileID: 1292894433}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2128595773
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 770557043}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d26db93970f0fcd4f9f82b79ca7a7ce7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SlipHealth
-  maxHealth: 100
-  currentHealth: 0
-  _damageAmount: 0
-  gameController: {fileID: 0}
-  healthBar: {fileID: 0}
-  animator: {fileID: 0}
 --- !u!1 &2141249875
 GameObject:
   m_ObjectHideFlags: 0
@@ -15901,5 +15877,4 @@ SceneRoots:
   - {fileID: 219087637}
   - {fileID: 708443892}
   - {fileID: 132830352}
-  - {fileID: 1855558784}
   - {fileID: 864742507}

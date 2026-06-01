@@ -21,18 +21,13 @@ public class SlipHealth : MonoBehaviour
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth); 
         animator = GetComponent<Animator>();
+        gameController = GetComponent<GameController>();
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Obstacles"))
         { 
-
-            if (animator != null) 
-            { 
-                animator.SetTrigger("hitTrigger");
-            }
-            
             TakeDamage(_damageAmount);
         }
     }
@@ -40,6 +35,7 @@ public class SlipHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+        currentHealth = Mathf.Max(0, currentHealth);
         SFXManager.Play("Hit Effects");
         healthBar.SetHealth(currentHealth);
         if (currentHealth == 0)
