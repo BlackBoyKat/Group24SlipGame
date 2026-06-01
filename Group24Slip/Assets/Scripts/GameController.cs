@@ -1,6 +1,7 @@
 using System.Collections;
 using TMPro.Examples;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
@@ -9,7 +10,30 @@ public class GameController : MonoBehaviour
     CameraController cam;
     Quaternion playerRotation;
     SlipMovement playerMovement;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public GameObject gameOverScreen;
+    public GameObject failedImage;
+
+    public void Start()
+    {
+        SlipHealth.onPlayerDeath += GameOverScreen;
+        gameOverScreen.SetActive(false);
+        failedImage.SetActive(false);
+        checkpointPos = transform.position;
+        playerRotation = transform.rotation;
+    }
+
+    void GameOverScreen()
+    {
+        gameOverScreen.SetActive(true);
+        failedImage.SetActive(true);
+    }
+
+    public void ResetGame()
+    { 
+        gameOverScreen.SetActive(false);
+        failedImage.SetActive(false);
+    }
     public void Awake()
     {
         cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraController>();
@@ -17,25 +41,12 @@ public class GameController : MonoBehaviour
         playerRb = GetComponent<Rigidbody2D>();
     }
 
-    public void Start()
-    {
-        checkpointPos = transform.position;
-        playerRotation = transform.rotation;
-    }
 
     public void Die()
     {
-        //StartCoroutine(Respawn(.5f));
         if (gameObject.CompareTag("Player"))
         {
             gameObject.SetActive(false); // Deactivate the player object
         }
     }
-    //IEnumerable Respawn(float duration)
-    //{
-    //    yield return new WaitForSeconds(duration);
-    //    transform.position = checkpointPos;
-    //    transform.rotation = playerRotation;
-    //    playerRb.linearVelocity = Vector2.zero;
-    //}
 }

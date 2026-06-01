@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 
 
@@ -17,7 +18,8 @@ public class SlipMovement : MonoBehaviour
     private Animator animator;
     bool isJumping = false;
     bool isPushing = false;
-    bool isGrinding = false;
+    bool isHit = false;
+    bool isFalling = false;
     bool isGrounded = false;
 
     [Header("Better Jumping")]
@@ -34,6 +36,7 @@ public class SlipMovement : MonoBehaviour
     public float maxSpeed = 15f;
     public float currentSpeed = 0f;
     public float currentForwardDirection = 1;
+    private Coroutine hitCoroutine;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -52,7 +55,8 @@ public class SlipMovement : MonoBehaviour
         Vector3 Move = Vector3.zero;
         isJumping = false;
         isPushing = false;
-        isGrinding = false;
+        isHit = false;
+        isFalling = false;
 
         //Coyote Time
         if (isGrounded)
@@ -82,6 +86,7 @@ public class SlipMovement : MonoBehaviour
             isGrounded = false; // Set isGrounded to false when the player jumps 
             Move.y = 1f;
             isJumping = true; 
+            isFalling = true;
             coyoteTimeCounter = 0f; // Reset coyote time counter when the player jumps
         }
 
@@ -133,7 +138,7 @@ public class SlipMovement : MonoBehaviour
         //Acceleration and Deceleration
         CaculateSpeed(axisMovement);
 
-        if(axisMovement.x > 0.5)
+        if (axisMovement.x > 0.5)
         {
             currentForwardDirection = 1;
         }
@@ -158,16 +163,49 @@ public class SlipMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+       if (collision.gameObject.CompareTag("Obstacles"))
+        {
+            SetHitForSeconds(.5f);
+        }
 
         isGrounded = true;
+        isFalling = false;
+
+        animator.SetBool("isFalling", isFalling);
         animator.SetBool("isJumping", isGrounded);
 
     }
    
     private void OnTriggerExit2D(Collider2D collision)
     {
+
+        if (collision.gameObject.CompareTag("Obstacles"))
+        {
+            SetHitForSeconds(.5f);
+        }
+
         isGrounded = false;
+        isFalling = true;
+
+        animator.SetBool("isFalling", isFalling);
         animator.SetBool("isJumping", isGrounded);
+    }
+
+    public void SetHitForSeconds(float duration)
+    {
+        if (hitCoroutine != null)
+            StopCoroutine(hitCoroutine);
+        hitCoroutine = StartCoroutine(HitRoutine(duration));
+    }
+
+    private IEnumerator HitRoutine(float duration)
+    {
+        isHit = true;
+        animator.SetBool("isHit", true);
+        yield return new WaitForSeconds(duration);
+        isHit = false;
+        animator.SetBool("isHit", false);
+        hitCoroutine = null;
     }
 
 
