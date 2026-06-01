@@ -82,6 +82,7 @@ public class SlipMovement : MonoBehaviour
         //Allow jump only when grounded or within coyote time
         if (Input.GetButtonDown("Jump") && coyoteTimeCounter > 0f) //this is a check to see if the player is pressing the jump button and if the player is not already jumping, this is to prevent the player from being able to jump multiple times in the air.
         {
+            SFXManager.Play("Jump Effects");
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpPower); // Set the vertical velocity to the jump power, this will make the player jump.
             isGrounded = false; // Set isGrounded to false when the player jumps 
             Move.y = 1f;
@@ -104,7 +105,7 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x -= 1f;
             isPushing = true;
-
+            SFXManager.Play("Push Effects");
             //flips without resizing
             SpriteRenderer.flipX = true;
         }
@@ -113,6 +114,7 @@ public class SlipMovement : MonoBehaviour
         {
             Move.x += 1f;
             isPushing = true;
+            SFXManager.Play("Push Effects");
 
             SpriteRenderer.flipX = false;
         }

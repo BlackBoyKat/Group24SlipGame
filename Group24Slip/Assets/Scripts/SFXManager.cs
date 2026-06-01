@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -45,5 +46,10 @@ public class SFXManager : MonoBehaviour
     public void OnValueChanged()
     {
         SetVolume(sfxSlider.value);
+    }
+
+    internal static float SetVolume()
+    {
+        throw new NotImplementedException();
     }
 }

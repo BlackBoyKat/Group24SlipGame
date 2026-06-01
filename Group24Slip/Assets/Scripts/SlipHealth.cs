@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SlipHealth : MonoBehaviour
 {
+    private const float sfxVolume = .5f;
     public int maxHealth = 100;
     public int currentHealth;
 
@@ -14,12 +15,12 @@ public class SlipHealth : MonoBehaviour
 
     [SerializeField]private Animator animator;
     public static event Action onPlayerDeath; // Event to notify when the player dies
+
     public void Start()
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth); 
         animator = GetComponent<Animator>();
-        
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -43,8 +44,8 @@ public class SlipHealth : MonoBehaviour
         healthBar.SetHealth(currentHealth);
         if (currentHealth == 0)
         {
-           gameController.Die();
-           onPlayerDeath.Invoke(); // Invoke the player death event
+            gameController.Die();
+           onPlayerDeath.Invoke();   // Invoke the player death event
         }
     }
 
